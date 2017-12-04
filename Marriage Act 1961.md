@@ -2278,9 +2278,9 @@ Marriage celebrants who wish to be religious marriage celebrants on the basis of
 
 ##### 117  Evidence of registration etc.
 
- (1)  A certificate under the hand of a person by whom a register under a Subdivision of Division 1 of Part IV (other than Subdivision C of that Division) is kept stating that a specified person was, at a date specified in the certificate, registered under that Subdivision in the register kept by the first‑mentioned person for the purposes of that Subdivision is evidence that the person specified in the certificate was registered under that Subdivision at the date so specified.
+ (1)  A certificate under the hand of a person by whom a register under a Subdivision of Division 1 of Part IV (other than Subdivision C or D of that Division) is kept stating that a specified person was, at a date specified in the certificate, registered under that Subdivision in the register kept by the first‑mentioned person for the purposes of that Subdivision is evidence that the person specified in the certificate was registered under that Subdivision at the date so specified.
 
- (2)  A certificate under the hand of the Minister stating that a person specified in the certificate was not, at a date specified in the certificate, registered under a Subdivision of Division 1 of Part IV (other than Subdivision C of that Division) is evidence that the person specified in the certificate was not registered under that Subdivision at the date so specified.
+ (2)  A certificate under the hand of the Minister stating that a person specified in the certificate was not, at a date specified in the certificate, registered under a Subdivision of Division 1 of Part IV (other than Subdivision C or D of that Division) is evidence that the person specified in the certificate was not registered under that Subdivision at the date so specified.
 
  (2A)  A certificate under the hand of the Minister stating that a specified person was at a specified date:
 
