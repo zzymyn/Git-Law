@@ -1518,7 +1518,7 @@ Marriage celebrants who wish to be religious marriage celebrants on the basis of
 
 ##### 71  Marriages of members of the Defence Force overseas
 
- (1)  Subject to this Part, a marriage between parties of whom one at least is a member of the Defence Force may be solemnised in an overseas country by or in the presence of a chaplain.
+ (1)  Subject to this Part, a marriage between parties of whom one at least is a member of the Defence Force may be solemnised in an overseas country by or in the presence of an authorised celebrant.
 
  (2)  The Governor‑General may, by Proclamation, declare that a part of the Queen’s dominions that has been occupied by a state at war with the Commonwealth and in which facilities for marriage in accordance with the local law have not, in the opinion of the Governor‑General, been adequately restored shall be deemed to be an overseas country for the purposes of this section.
 
