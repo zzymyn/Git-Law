@@ -2264,7 +2264,7 @@ Marriage celebrants who wish to be religious marriage celebrants on the basis of
 
   appearing on a document under this Act and of the fact that, at the time the document was signed by the person, he or she held, or was acting in, that office.
 
- (2)  Judicial notice shall be taken of the signature of a person who is, or has been, an authorised celebrant or chaplain appearing on a document under this Act and of the fact that, at the time the document was signed by the person, he or she was an authorised celebrant or chaplain, as the case may be.
+ (2)  Judicial notice shall be taken of the signature of a person who is, or has been, an authorised celebrant appearing on a document under this Act and of the fact that, at the time the document was signed by the person, he or she was an authorised celebrant, as the case may be.
 
  (3)  Judicial notice shall be taken of the signature of a person who has, at any time:
 
