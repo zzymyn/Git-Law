@@ -42,11 +42,21 @@
 
   **authorised celebrant** means:
 
-  (a)  a minister of religion registered under Subdivision A of Division 1 of Part IV; or
+  (a)  in relation to a marriage proposed to be solemnised in Australia:
 
-  (b)  a person authorised to solemnise marriages by virtue of Subdivision B of Division 1 of Part IV; or
+   (i)  a minister of religion registered under Subdivision A of Division 1 of Part IV; or
 
-  (c)  a marriage celebrant.
+   (ii)  a person authorised to solemnise marriages under Subdivision B of Division 1 of Part IV; or
+
+   (iii)  a marriage celebrant; or
+
+   (iv)  a religious marriage celebrant; or
+
+  (b)  in relation to a marriage proposed to be solemnised in accordance with Division 3 of Part V:
+
+   (i)  a chaplain; or
+
+   (ii)  an officer (within the meaning of the Defence Act 1903 ), other than a chaplain, authorised by the Chief of the Defence Force under section 71A to solemnise marriages under that Division.
 
   **celebrant registration charge**: see subsection 39FA(1).
 
