@@ -2318,7 +2318,7 @@ Marriage celebrants who wish to be religious marriage celebrants on the basis of
 
   (e)  paragraph 50(1)(b) (official certificate of marriage);
 
-  (f)  subsection 74(1) (declaration to be made before chaplain);
+  (f)  subsection 74(1) (declaration to be made before authorised celebrant);
 
   (g)  paragraph 80(1)(b) (official certificate of marriage);
 
