@@ -1316,7 +1316,7 @@ Marriage celebrants who wish to be religious marriage celebrants on the basis of
 
   “Before you are joined in marriage in my presence and in the presence of these witnesses, I am to remind you of the solemn and binding nature of the relationship into which you are now about to enter.
 
-  “Marriage, according to law in Australia, is the union of a man and a woman to the exclusion of all others, voluntarily entered into for life.”;
+  “Marriage, according to law in Australia, is the union of 2 people to the exclusion of all others, voluntarily entered into for life.”;
 
   or words to that effect.
 
