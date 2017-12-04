@@ -1082,6 +1082,8 @@ Marriage celebrants who wish to be religious marriage celebrants on the basis of
 
  (3)  If the Registrar suspends a marriage celebrant’s registration for a particular period, section 39F does not apply in respect of the marriage celebrant during the period.
 
+ (3A)  If the Registrar removes the identification of a marriage celebrant as a religious marriage celebrant for any period under paragraph (2)(e), section 47A does not apply in respect of the celebrant during that period.
+
  (4)  If the Registrar decides to take disciplinary measures against a marriage celebrant, the Registrar:
 
   (a)  must give the marriage celebrant written notice of:
