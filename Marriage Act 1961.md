@@ -106,7 +106,7 @@
 
   (a)  in relation to a marriage proposed to be solemnised in Australia—a person, being an officer or employee* *of the Commonwealth, a State or a Territory, appointed by the Minister to be a prescribed authority;
 
-  (c)  in relation to a marriage proposed to be solemnised in accordance with Division 3 of Part V—a chaplain.
+  (c)  in relation to a marriage proposed to be solemnised in accordance with Division 3 of Part V—a chaplain or an officer (within the meaning of the Defence Act 1903), other than a chaplain, authorised by the Chief of the Defence Force under section 71A to solemnise marriages under that Division.
 
   **recognised denomination** means a religious body or a religious organisation in respect of which a Proclamation under section 26 is in force.
 
