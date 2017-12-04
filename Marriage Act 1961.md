@@ -1168,7 +1168,11 @@ Marriage celebrants who wish to be religious marriage celebrants on the basis of
 
   (b)  a person’s registration as a marriage celebrant was suspended; or
 
-  (c)  a person was not registered as a marriage celebrant;
+  (c)  a person was not registered as a marriage celebrant; or
+
+  (d)  a person was identified as a religious marriage celebrant on the register of marriage celebrants; or
+
+  (e)  a person was not identified as a religious marriage celebrant on the register of marriage celebrants;
 
   is prima facie evidence of that fact.
 
