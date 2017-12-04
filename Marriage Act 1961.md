@@ -1352,6 +1352,30 @@ Marriage celebrants who wish to be religious marriage celebrants on the basis of
 
  (4)  This section does not limit the grounds on which a minister of religion may refuse to solemnise a marriage.
 
+##### 47A  Religious marriage celebrants may refuse to solemnise marriages
+
+ (1)  A religious marriage celebrant may refuse to solemnise a marriage despite anything in this Part, if the celebrant’s religious beliefs do not allow the celebrant to solemnise the marriage.
+
+ *Grounds for refusal not limited by this section*
+
+ (2)  This section does not limit the grounds on which a religious marriage celebrant may refuse to solemnise a marriage.
+
+##### 47B  Bodies established for religious purposes may refuse to make facilities available or provide goods or services
+
+ (1)  A body established for religious purposes may refuse to make a facility available, or to provide goods or services, for the purposes of the solemnisation of a marriage, or for purposes reasonably incidental to the solemnisation of a marriage, if the refusal:
+
+  (a)  conforms to the doctrines, tenets or beliefs of the religion of the body; or
+
+  (b)  is necessary to avoid injury to the religious susceptibilities of adherents of that religion.
+
+ (2)  Subsection (1) applies to facilities made available, and goods and services provided, whether for payment or not.
+
+ (3)  This section does not limit the grounds on which a body established for religious purposes may refuse to make a facility available, or to provide goods or services, for the purposes of the solemnisation of a marriage, or for purposes reasonably incidental to the solemnisation of a marriage.
+
+ (4)  To avoid doubt, a reference to a body established for religious purposes has the same meaning in this section as it has in section 37 of the Sex Discrimination Act 1984.
+
+ (5)  For the purposes of subsection (1), a purpose is reasonably incidental to the solemnisation of marriage if it is intrinsic to, or directly associated with, the solemnisation of the marriage.
+
 ##### 48  Certain marriages not solemnised in accordance with this Division to be invalid
 
  (1)  Subject to this section, a marriage solemnised otherwise than in accordance with the preceding provisions of this Division is not a valid marriage.
