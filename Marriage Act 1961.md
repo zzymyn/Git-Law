@@ -28,7 +28,7 @@
 
   **Australia** includes Norfolk Island.
 
-  **Australian Consular Officer** and** Australian Diplomatic Officer** have the same respective meanings as in the *Consular Fees Act 1955*.
+  **Australian Consular Officer** and **Australian Diplomatic Officer** have the same respective meanings as in the *Consular Fees Act 1955*.
 
   **authorised celebrant** means:
 
@@ -362,7 +362,7 @@
 
   may give consent to the marriage in place of the consent of the person in relation to whose consent the application is made.
 
-          (2A)  A Judge or magistrate shall not proceed with an inquiry in accordance with subsection (2) unless:
+ (2A)  A Judge or magistrate shall not proceed with an inquiry in accordance with subsection (2) unless:
 
   (a)  there has been produced to the Judge or magistrate a certificate signed by a family counsellor certifying that the applicant has received counselling from the family counsellor in relation to the proposed marriage; or
 
@@ -772,7 +772,7 @@
 
  (1)  A person may apply, in writing, to the Registrar of Marriage Celebrants to be registered as a marriage celebrant.
 
-          (1A)  An application is taken to be made if, and only if:
+ (1A)  An application is taken to be made if, and only if:
 
   (a)  the application complies with subsection (1); and
 
@@ -786,9 +786,9 @@
 
 ###### Registration application fees
 
-          (1B)  The regulations may require a fee (a **registration application fee**) to be paid in respect of an application.
+ (1B)  The regulations may require a fee (a **registration application fee**) to be paid in respect of an application.
 
-          (1C)  The regulations may also do all or any of the following:
+ (1C)  The regulations may also do all or any of the following:
 
   (a)  provide for the granting of exemptions, on grounds specified in the regulations, from liability to pay a registration application fee;
 
@@ -796,9 +796,9 @@
 
   (c)  provide for internal review of decisions to refuse to grant exemptions.
 
-          (1D)  Regulations made for the purpose of subsection (1B) or paragraph (1C)(b) may specify a fee, or provide for a fee to be determined by the Minister by legislative instrument.
+ (1D)  Regulations made for the purpose of subsection (1B) or paragraph (1C)(b) may specify a fee, or provide for a fee to be determined by the Minister by legislative instrument.
 
-          (1E)  Regulations made for the purpose of paragraph (1C)(c) must provide that the outcome of an internal review of a decision to refuse to grant an exemption is either:
+ (1E)  Regulations made for the purpose of paragraph (1C)(c) must provide that the outcome of an internal review of a decision to refuse to grant an exemption is either:
 
   (a)  that the refusal decision is confirmed; or
 
@@ -1128,7 +1128,7 @@
 
  (5)  Despite a notice required by subsection (1) having been received later than 1 month before the date of the marriage, a prescribed authority may authorise an authorised celebrant to solemnise a marriage if the authority is satisfied that one or more of the circumstances prescribed in the regulations have been met.
 
-          (5A)  An authorised celebrant shall, as soon as practicable after receiving the notice referred to in subsection (1), give to the parties a document outlining the obligations and consequences of marriage and indicating the availability of marriage education and counselling.
+ (5A)  An authorised celebrant shall, as soon as practicable after receiving the notice referred to in subsection (1), give to the parties a document outlining the obligations and consequences of marriage and indicating the availability of marriage education and counselling.
 
  (6)  Where, by reason of the death, absence or illness of an authorised celebrant to whom a notice of intention to marry has been given, or for any other reason, it is impracticable for that person to solemnise the marriage, the marriage may be solemnised by any authorised celebrant who has possession of the notice.
 
@@ -1148,7 +1148,7 @@
 
  (9)  An authorised celebrant may permit an error in a notice under this section to be corrected in his or her presence by either of the parties at any time before the marriage to which it relates has been solemnised and may treat the corrected notice as having been originally given in its corrected form.
 
-           (10)  Where the declaration made by a party under subsection (1) states that that party is a divorced person or a widow or widower, an authorised celebrant shall not solemnise the marriage unless there is produced to him or her evidence of that party’s divorce, or of the death of that party’s spouse, as the case requires.
+ (10)  Where the declaration made by a party under subsection (1) states that that party is a divorced person or a widow or widower, an authorised celebrant shall not solemnise the marriage unless there is produced to him or her evidence of that party’s divorce, or of the death of that party’s spouse, as the case requires.
 
 ##### 42A  Commissioner of Australian Federal Police or approved authority may issue special notice
 
@@ -1244,7 +1244,7 @@
 
   (b)  prepare 2 official certificates of the marriage.
 
-          (1A)  Notwithstanding paragraph (1)(b), the regulations may provide that the person for the time being holding or acting in a specified office of a specified State or Territory shall prepare only 1 official certificate under that paragraph.
+ (1A)  Notwithstanding paragraph (1)(b), the regulations may provide that the person for the time being holding or acting in a specified office of a specified State or Territory shall prepare only 1 official certificate under that paragraph.
 
  (2)  Immediately after the solemnisation of the marriage, the authorised celebrant, each of the parties to the marriage and 2 witnesses of the marriage who are, or appear to the authorised celebrant to be, over the age of 18 years shall sign each of the certificates so prepared.
 
@@ -1276,7 +1276,7 @@
 
  (2)  For the purposes of exercising his or her powers under paragraph (1)(a) in relation to a certificate, an authorised officer may, by notice in writing served on a party to the marriage, or the authorised celebrant, as the case requires, require the party or the authorised celebrant to produce or forward the certificate to the authorised officer within a period (not being less than 7 days from the date of service of the notice) specified in the notice.
 
-          (2A)  Where a marriage has been solemnised, or purports to have been solemnised, under this Part, and the marriage is void, an authorised officer may, by notice in writing served on a party to the marriage, require the party to deliver or forward to the authorised officer, within a period (not being less than 7 days from the date of service of the notice) specified in the notice, the certificate required, by subsection 50(4), to be handed to a party to the marriage.
+ (2A)  Where a marriage has been solemnised, or purports to have been solemnised, under this Part, and the marriage is void, an authorised officer may, by notice in writing served on a party to the marriage, require the party to deliver or forward to the authorised officer, within a period (not being less than 7 days from the date of service of the notice) specified in the notice, the certificate required, by subsection 50(4), to be handed to a party to the marriage.
 
  (3)  A notice referred to in subsection (2) or (2A) may be served by post.
 
@@ -1492,7 +1492,7 @@
 
   (c)  forward the copy to the Registrar.
 
-           (10)  A certified copy of a certificate prepared by a chaplain under subsection (9) has, for all purposes, the same force and effect as the certificate of which it is a copy.
+ (10)  A certified copy of a certificate prepared by a chaplain under subsection (9) has, for all purposes, the same force and effect as the certificate of which it is a copy.
 
 ##### 81  Power to refuse to solemnise marriage
 
@@ -1800,7 +1800,7 @@
 
   Penalty:  Imprisonment for 5 years.
 
-          (1A)  For the purposes of an offence against subsection (1), strict liability applies to the physical element of circumstance, that the person was married when the form or ceremony took place.
+ (1A)  For the purposes of an offence against subsection (1), strict liability applies to the physical element of circumstance, that the person was married when the form or ceremony took place.
 
   Note:          For **strict liability**, see section 6.1 of the *Criminal Code*.
 
@@ -1812,7 +1812,7 @@
 
  (3)  For the purposes of subsection (2), proof by a defendant that the defendant’s spouse had been continually absent from the defendant for the period of 7 years immediately preceding the date of the alleged offence and that, at the time of the alleged offence, the defendant had no reason to believe that the defendant’s spouse had been alive at any time within that period is sufficient proof of the matters referred to in paragraph (2)(b).
 
-          (3A)  To avoid doubt, section 9.2 of the *Criminal Code* (mistake of fact) does not apply in relation to the matters mentioned in subsections (2) and (3).
+ (3A)  To avoid doubt, section 9.2 of the *Criminal Code* (mistake of fact) does not apply in relation to the matters mentioned in subsections (2) and (3).
 
  (4)  A person shall not go through a form or ceremony of marriage with a person who is married, knowing, or having reasonable grounds to believe, that the latter person is married.
 
@@ -1824,7 +1824,7 @@
 
  (7)  In a prosecution for an offence against this section, the fact that, at the time of the alleged offence, a person was married shall not be taken to have been proved if the only evidence of the fact is the evidence of the other party to the alleged marriage.
 
-          (7A)  In a prosecution for an offence against this section, the court may receive as evidence of the facts stated in it a document purporting to be either the original or a certified copy of a certificate, entry or record of a marriage alleged to have taken place whether in Australia or elsewhere.
+ (7A)  In a prosecution for an offence against this section, the court may receive as evidence of the facts stated in it a document purporting to be either the original or a certified copy of a certificate, entry or record of a marriage alleged to have taken place whether in Australia or elsewhere.
 
  (8)  This section operates to the exclusion of any law of a State or Territory making it an offence:
 
@@ -1840,7 +1840,7 @@
 
   Penalty:  Imprisonment for 5 years.
 
-          (1A)  For the purposes of an offence against subsection (1), strict liability applies to the physical element of circumstance, that the person is not of marriageable age.
+ (1A)  For the purposes of an offence against subsection (1), strict liability applies to the physical element of circumstance, that the person is not of marriageable age.
 
   Note:          For **strict liability**, see section 6.1 of the *Criminal Code*.
 
@@ -1852,13 +1852,13 @@
 
   Penalty:  Imprisonment for 6 months or 5 penalty units.
 
-          (2A)  For the purposes of an offence against subsection (2), strict liability applies to the physical element of circumstance, that the other party to the marriage is a minor.
+ (2A)  For the purposes of an offence against subsection (2), strict liability applies to the physical element of circumstance, that the other party to the marriage is a minor.
 
   Note:          For **strict liability**, see section 6.1 of the *Criminal Code*.
 
  (3)  It is a defence to a prosecution for an offence against subsection (1) if the defendant proves that he or she believed on reasonable grounds that the person with whom he or she went through the form or ceremony of marriage was of marriageable age.
 
-          (3A)  To avoid doubt, section 9.2 of the *Criminal Code* (mistake of fact) does not apply in relation to the matters mentioned in subsection (3).
+ (3A)  To avoid doubt, section 9.2 of the *Criminal Code* (mistake of fact) does not apply in relation to the matters mentioned in subsection (3).
 
  (4)  It is a defence to a prosecution for an offence against subsection (2) if the defendant proves that he or she believed on reasonable grounds:
 
@@ -2026,7 +2026,7 @@
 
  (4)  The person by whom or in whose presence a form or ceremony of marriage takes place or is performed in pursuance of subsection (2) shall make an endorsement in accordance with the regulations on each certificate issued in respect of it.
 
-          (4A)  A marriage which takes place after the commencement of this subsection in pursuance of subsection (2) is not invalid by reason of any failure to comply with the requirements of subsection (3) or (4).
+ (4A)  A marriage which takes place after the commencement of this subsection in pursuance of subsection (2) is not invalid by reason of any failure to comply with the requirements of subsection (3) or (4).
 
  (5)  Nothing in this Act shall be taken to prevent 2 persons who are already legally married to each other from going through a religious ceremony of marriage with each other in Australia where those persons have:
 
@@ -2112,7 +2112,7 @@
 
  (2)  A certificate under the hand of the Minister stating that a person specified in the certificate was not, at a date specified in the certificate, registered under a Subdivision of Division 1 of Part IV (other than Subdivision C of that Division) is evidence that the person specified in the certificate was not registered under that Subdivision at the date so specified.
 
-          (2A)  A certificate under the hand of the Minister stating that a specified person was at a specified date:
+ (2A)  A certificate under the hand of the Minister stating that a specified person was at a specified date:
 
   (a)  a person authorised under section 39 to solemnise marriages at the place and subject to the conditions (if any) specified in the certificate; or
 
