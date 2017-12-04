@@ -596,7 +596,7 @@
 
  (21)  The prescribed provisions of Division 3 of Part II have effect in relation to acts done using a postal, telegraphic, telephonic or other like service (within the meaning of paragraph 51(v) of the Constitution).
 
-##### ##### 10  Operation of State and Territory laws
+##### 10  Operation of State and Territory laws
 
  (1)  A reference in this section to this Act is a reference to this Act as it has effect by virtue of any of the provisions of section 9 other than subsection 9(10).
 
@@ -620,7 +620,7 @@
 
  the person may be prosecuted and convicted either under that law of the State or Territory or under this Act, but nothing in this subsection renders a person liable to be punished more than once in respect of the same act or omission.
 
-##### ##### 11  Operation of State and Territory laws that further objects of relevant international instruments
+##### 11  Operation of State and Territory laws that further objects of relevant international instruments
 
  (1)  A reference in this section to this Act is a reference to this Act as it has effect by virtue of subsection 9(10).
 
@@ -644,13 +644,13 @@
 
  the person may be prosecuted and convicted either under that law of the State or Territory or under this Act, but nothing in this subsection renders a person liable to be punished more than once in respect of the same act or omission.
 
-##### ##### 12  Extent to which Act binds the Crown
+##### 12  Extent to which Act binds the Crown
 
  (1)  This Act binds the Crown in right of the Commonwealth and of Norfolk Island but, except as otherwise expressly provided by this Act, does not bind the Crown in right of a State.
 
  (2)  Nothing in this Act renders the Crown in right of the Commonwealth, of a State or of Norfolk Island liable to be prosecuted for an offence.
 
-##### ##### 13  Extent to which Act applies to State instrumentalities
+##### 13  Extent to which Act applies to State instrumentalities
 
  (1)  Section 14 does not apply in relation to employment by an instrumentality of a State.
 
@@ -666,7 +666,7 @@
 
  Division 1—Discrimination in work
 
-##### ##### 14  Discrimination in employment or in superannuation
+##### 14  Discrimination in employment or in superannuation
 
  (1)  It is unlawful for an employer to discriminate against a person on the ground of the person’s sex, sexual orientation, gender identity, intersex status, marital or relationship status, pregnancy or potential pregnancy, breastfeeding or family responsibilities:
 
@@ -696,7 +696,7 @@
 
  member, in relation to a superannuation fund, includes a person who has been a member of the fund at any time.
 
-##### ##### 15  Discrimination against commission agents
+##### 15  Discrimination against commission agents
 
  (1)  It is unlawful for a principal to discriminate against a person on the ground of the person’s sex, sexual orientation, gender identity, intersex status, marital or relationship status, pregnancy or potential pregnancy, breastfeeding or family responsibilities:
 
@@ -716,7 +716,7 @@
 
   (d)  by subjecting the commission agent to any other detriment.
 
-##### ##### 16  Discrimination against contract workers
+##### 16  Discrimination against contract workers
 
  It is unlawful for a principal to discriminate against a contract worker on the ground of the contract worker’s sex, sexual orientation, gender identity, intersex status, marital or relationship status, pregnancy or potential pregnancy, breastfeeding or family responsibilities:
 
@@ -728,7 +728,7 @@
 
   (d)  by subjecting the contract worker to any other detriment.
 
-##### ##### 17  Partnerships
+##### 17  Partnerships
 
  (1)  It is unlawful for 6 or more persons, being persons who are proposing to form themselves into a partnership, to discriminate against a person on the ground of the person’s sex, sexual orientation, gender identity, intersex status, marital or relationship status, pregnancy or potential pregnancy, breastfeeding or family responsibilities:
 
@@ -750,7 +750,7 @@
 
   (c)  by subjecting the partner to any other detriment.
 
-##### ##### 18  Qualifying bodies
+##### 18  Qualifying bodies
 
  It is unlawful for an authority or body that is empowered to confer, renew, extend, revoke or withdraw an authorization or qualification that is needed for or facilitates the practice of a profession, the carrying on of a trade or the engaging in of an occupation to discriminate against a person on the ground of the person’s sex, sexual orientation, gender identity, intersex status, marital or relationship status, pregnancy or potential pregnancy, breastfeeding or family responsibilities:
 
@@ -760,7 +760,7 @@
 
   (c)  by revoking or withdrawing the authorization or qualification or varying the terms or conditions upon which it is held.
 
-##### ##### 19  Registered organisations under the Fair Work (Registered Organisations) Act 2009
+##### 19  Registered organisations under the Fair Work (Registered Organisations) Act 2009
 
  (1)  It is unlawful for a registered organisation, the committee of management of a registered organisation or a member of the committee of management of a registered organisation to discriminate against a person, on the ground of the person’s sex, sexual orientation, gender identity, intersex status, marital or relationship status, pregnancy or potential pregnancy, breastfeeding or family responsibilities:
 
@@ -776,7 +776,7 @@
 
   (c)  by subjecting the member to any other detriment.
 
-##### ##### 20  Employment agencies
+##### 20  Employment agencies
 
  It is unlawful for an employment agency to discriminate against a person on the ground of the person’s sex, sexual orientation, gender identity, intersex status, marital or relationship status, pregnancy or potential pregnancy, breastfeeding or family responsibilities:
 
@@ -788,7 +788,7 @@
 
  Division 2—Discrimination in other areas
 
-##### ##### 21  Education
+##### 21  Education
 
  (1)  It is unlawful for an educational authority to discriminate against a person on the ground of the person’s sex, sexual orientation, gender identity, intersex status, marital or relationship status, pregnancy or potential pregnancy, or breastfeeding:
 
@@ -812,7 +812,7 @@
 
  (4)  This section binds the Crown in right of a State.
 
-##### ##### 22  Goods, services and facilities
+##### 22  Goods, services and facilities
 
  (1)  It is unlawful for a person who, whether for payment or not, provides goods or services, or makes facilities available, to discriminate against another person on the ground of the other person’s sex, sexual orientation, gender identity, intersex status, marital or relationship status, pregnancy or potential pregnancy, or breastfeeding:
 
@@ -824,7 +824,7 @@
 
  (2)  This section binds the Crown in right of a State.
 
-##### ##### 23  Accommodation
+##### 23  Accommodation
 
  (1)  It is unlawful for a person, whether as principal or agent, to discriminate against another person on the ground of the other person’s sex, sexual orientation, gender identity, intersex status, marital or relationship status, pregnancy or potential pregnancy, or breastfeeding:
 
@@ -864,7 +864,7 @@
 
  (4)  This section binds the Crown in right of a State.
 
-##### ##### 24  Land
+##### 24  Land
 
  (1)  It is unlawful for a person, whether as principal or agent, to discriminate against another person on the ground of the other person’s sex, sexual orientation, gender identity, intersex status, marital or relationship status, pregnancy or potential pregnancy, or breastfeeding:
 
@@ -876,7 +876,7 @@
 
  (3)  This section binds the Crown in right of a State.
 
-##### ##### 25  Clubs
+##### 25  Clubs
 
  (1)  It is unlawful for a club, the committee of management of a club or a member of the committee of management of a club to discriminate against a person who is not a member of the club on the ground of the person’s sex, sexual orientation, gender identity, intersex status, marital or relationship status, pregnancy or potential pregnancy, or breastfeeding:
 
@@ -926,13 +926,13 @@
 
   (e)  any other relevant circumstances.
 
-##### ##### 26  Administration of Commonwealth laws and programs
+##### 26  Administration of Commonwealth laws and programs
 
  (1)  It is unlawful for a person who performs any function or exercises any power under a Commonwealth law or for the purposes of a Commonwealth program, or has any other responsibility for the administration of a Commonwealth law or the conduct of a Commonwealth program, to discriminate against another person, on the ground of the other person’s sex, sexual orientation, gender identity, intersex status, marital or relationship status, pregnancy or potential pregnancy, or breastfeeding, in the performance of that function, the exercise of that power or the fulfilment of that responsibility.
 
  (2)  This section binds the Crown in right of a State.
 
-##### ##### 27  Requests for information
+##### 27  Requests for information
 
  (1)  It is unlawful for a person (the first person) to request or require another person (the other person) to provide information (whether by way of completing a form or otherwise) if:
 
@@ -1132,7 +1132,7 @@
 
  Division 4—Exemptions
 
-##### ##### 30  Certain discrimination on ground of sex not unlawful
+##### 30  Certain discrimination on ground of sex not unlawful
 
  (1)  Nothing in paragraph 14(1)(a) or (b), 15(1)(a) or (b) or 16(b) renders it unlawful for a person to discriminate against another person, on the ground of the other person’s sex, in connection with a position as an employee, commission agent or contract worker, being a position in relation to which it is a genuine occupational qualification to be a person of a different sex from the sex of the other person.
 
@@ -1160,15 +1160,15 @@
 
   (h)  the position is declared, by regulations made for the purposes of this paragraph, to be a position in relation to which it is a genuine occupational qualification to be a person of a particular sex.
 
-##### ##### 31  Pregnancy, childbirth or breastfeeding
+##### 31  Pregnancy, childbirth or breastfeeding
 
  Nothing in Division 1 or 2 renders it unlawful for a person to discriminate against a man on the ground of his sex by reason only of the fact that the first-mentioned person grants to a woman rights or privileges in connection with pregnancy, childbirth or breastfeeding.
 
-##### ##### 32  Services for members of one sex
+##### 32  Services for members of one sex
 
  Nothing in Division 1 or 2 applies to or in relation to the provision of services the nature of which is such that they can only be provided to members of one sex.
 
-##### ##### 34  Accommodation provided for employees or students
+##### 34  Accommodation provided for employees or students
 
  (1)  Nothing in Division 1 or 2 renders it unlawful for an employer who provides accommodation to employees of the employer to provide accommodation of different standards to different employees where:
 
@@ -1178,7 +1178,7 @@
 
  (2)  Nothing in Division 1 or 2 applies to or in relation to the provision of accommodation, where the accommodation is provided solely for persons of one sex who are students at an educational institution.
 
-##### ##### 35  Residential care of children
+##### 35  Residential care of children
 
  (1)  Nothing in paragraph 14(1)(a) or (b) or 16(b) renders it unlawful for a person to discriminate against another person on the ground of the other person’s sex in connection with a position as an employee or contract worker, where the duties of the position involve the care of a child or children in the place where the child or children resides or reside.
 
@@ -1188,7 +1188,7 @@
 
   (b)  it is intended that the spouse or de facto partner of the occupant of the position would also occupy a position as an employee or contract worker of that employer or principal.
 
-##### ##### 36  Charities
+##### 36  Charities
 
  Divisions 1 and 2 do not:
 
@@ -1202,7 +1202,7 @@
 
   (b)  make unlawful any act done to give effect to such a provision.
 
-##### ##### 37  Religious bodies
+##### 37  Religious bodies
 
  (1)  Nothing in Division 1 or 2 affects:
 
@@ -1220,7 +1220,7 @@
 
   (b)  the act or practice is not connected with the employment of persons to provide that aged care.
 
-##### ##### 38  Educational institutions established for religious purposes
+##### 38  Educational institutions established for religious purposes
 
  (1)  Nothing in paragraph 14(1)(a) or (b) or 14(2)(c) renders it unlawful for a person to discriminate against another person on the ground of the other person’s sex, sexual orientation, gender identity, marital or relationship status or pregnancy in connection with employment as a member of the staff of an educational institution that is conducted in accordance with the doctrines, tenets, beliefs or teachings of a particular religion or creed, if the first-mentioned person so discriminates in good faith in order to avoid injury to the religious susceptibilities of adherents of that religion or creed.
 
@@ -1228,7 +1228,7 @@
 
  (3)  Nothing in section 21 renders it unlawful for a person to discriminate against another person on the ground of the other person’s sexual orientation, gender identity, marital or relationship status or pregnancy in connection with the provision of education or training by an educational institution that is conducted in accordance with the doctrines, tenets, beliefs or teachings of a particular religion or creed, if the first-mentioned person so discriminates in good faith in order to avoid injury to the religious susceptibilities of adherents of that religion or creed.
 
-##### ##### 39  Voluntary bodies
+##### 39  Voluntary bodies
 
  Nothing in Division 1 or 2 renders it unlawful for a voluntary body to discriminate against a person, on the ground of the person’s sex, sexual orientation, gender identity, intersex status, marital or relationship status, pregnancy, breastfeeding or family responsibilities, in connection with:
 
@@ -1236,7 +1236,7 @@
 
   (b)  the provision of benefits, facilities or services to members of the body.
 
-##### ##### 40  Acts done under statutory authority
+##### 40  Acts done under statutory authority
 
  (1)  Nothing in Division 1 or 2 affects anything done by a person in direct compliance with:
 
@@ -1294,7 +1294,7 @@
 
  Note:  See also subsection 98(6A) of the Civil Aviation Act 1988, which allows regulations made under that Act to contain provisions relating to medical standards that are inconsistent with this Act if the inconsistency is necessary for the safety of air navigation.
 
-##### ##### 41  Insurance
+##### 41  Insurance
 
  (1)  Nothing in Division 1 or 2 makes discrimination by one person (in this subsection called the insurer) against another person (in this subsection called the client) unlawful if:
 
@@ -1408,7 +1408,7 @@
 
  (6)  For the purposes of this section, the member is taken to obtain non-discriminatory benefits where, if section 41A applied to the member in respect of the fund, the superannuation fund conditions that relate to the benefits would not give rise to discrimination that is unlawful under Division 1 or 2.
 
-##### ##### 42  Sport
+##### 42  Sport
 
  (1)  Nothing in Division 1 or 2 renders it unlawful to discriminate on the ground of sex, gender identity or intersex status by excluding persons from participation in any competitive sporting activity in which the strength, stamina or physique of competitors is relevant.
 
@@ -1424,7 +1424,7 @@
 
   (e)  sporting activities by children who have not yet attained the age of 12 years.
 
-##### ##### 43  Combat duties etc.
+##### 43  Combat duties etc.
 
  (1)  Nothing in Division 1 or 2 renders it unlawful for a person to discriminate against a woman on the ground of her sex in connection with employment, engagement or appointment in the Defence Force:
 
@@ -1442,7 +1442,7 @@
 
  (2)  Nothing in Division 1 or 2 makes it unlawful to make or keep records in a way that does not provide for a person to be identified as being neither male nor female.
 
-##### ##### 44  Commission may grant exemptions
+##### 44  Commission may grant exemptions
 
  (1)  The Commission may, on application by:
 
@@ -1464,11 +1464,11 @@
 
   (c)  shall be granted for a specified period not exceeding 5 years.
 
-##### ##### 45  Review by Administrative Appeals Tribunal
+##### 45  Review by Administrative Appeals Tribunal
 
  Applications may be made to the Administrative Appeals Tribunal for review of decisions made by the Commission under section 44.
 
-##### ##### 46  Notice of decisions to be published
+##### 46  Notice of decisions to be published
 
  (1)  The Commission shall, not later than one month after it makes a decision under section 44, cause to be published in the Gazette a notice of the making of the decision:
 
@@ -1482,7 +1482,7 @@
 
  (2)  Any failure to comply with the requirements of subsection (1) in relation to a decision does not affect the validity of the decision.
 
-##### ##### 47  Effect of exemptions
+##### 47  Effect of exemptions
 
  Nothing in Division 1 or 2 renders it unlawful for a person who has been granted an exemption from a provision of that Division, or a person in the employment or under the direction or control of a person who has been granted such an exemption, to do an act in accordance with the provisions of the instrument by which the exemption was granted.
 
@@ -1490,7 +1490,7 @@
 
  Division 1—Preliminary
 
-##### ##### 48  Functions of the Commission
+##### 48  Functions of the Commission
 
  (1)  The following functions are hereby conferred on the Commission:
 
@@ -1516,11 +1516,11 @@
 
 ## Part IV—Offences
 
-##### ##### 85  Unlawful act not offence unless expressly so provided
+##### 85  Unlawful act not offence unless expressly so provided
 
  Except as expressly provided by this Part, nothing in this Act makes it an offence to do an act that is unlawful by reason of a provision of Part II.
 
-##### ##### 86  Advertisements
+##### 86  Advertisements
 
  (1)  A person shall not publish or display an advertisement or notice that indicates, or could reasonably be understood as indicating, an intention to do an act that is unlawful by reason of a provision of Part II.
 
@@ -1528,7 +1528,7 @@
 
  (2)  For the purposes of subsection (1), advertisement includes every form of advertisement or notice, whether to the public or not, and whether in a newspaper or other publication, by television or radio, by display of notices, signs, labels, showcards or goods, by distribution of samples, circulars, catalogues, price lists or other material, by exhibition of pictures, models or films, or in any other way, and the reference in that subsection to publish or display, in relation to an advertisement, shall be construed accordingly.
 
-##### ##### 87  Failure to provide actuarial or statistical data
+##### 87  Failure to provide actuarial or statistical data
 
  (1)  Where a person has engaged in an act of discrimination that would, apart from subsection 41(1), be unlawful, the President or the Commission may, by notice in writing served on the person as prescribed, require the person, within 28 days after service of the notice on the person, to disclose to the President or to the Commission, as the case may be, the source of the actuarial or statistical data on which the act of discrimination was based and, where the President or the Commission, as the case may be, makes such a requirement of a person, the person shall not fail to comply with the requirement.
 
@@ -1542,7 +1542,7 @@
 
  Note:  For strict liability, see section 6.1 of the Criminal Code.
 
-##### ##### 92  Particulars of complaints not to be communicated
+##### 92  Particulars of complaints not to be communicated
 
  (1)  Subject to subsection (2), where a complaint alleging that a person has done an act that is unlawful under Division 3 of Part II is lodged with the Commission under section 46P of the Australian Human Rights Commission Act 1986, a person shall not make a record of, or divulge or communicate to any other person, any particulars of that complaint until:
 
@@ -1596,7 +1596,7 @@
 
   (f)  a person to whom particulars of a complaint may be divulged or communicated under paragraph (b), (c), (d) or (e) from making a record of those particulars.
 
-##### ##### 94  Victimisation
+##### 94  Victimisation
 
  (1)  A person shall not commit an act of victimization against another person.
 
@@ -1626,7 +1626,7 @@
 
  (3)  It is a defence to a prosecution for an offence under subsection (1) constituted by subjecting, or threatening to subject, a person to a detriment on the ground that the person has made an allegation that another person had done an act that was unlawful by reason of a provision of Part II if it is proved that the allegation was false and was not made in good faith.
 
-##### ##### 95  Obstruction etc.
+##### 95  Obstruction etc.
 
  (1)  A person shall not insult, hinder, obstruct, molest or interfere with a person exercising a power or performing a function under this Act.
 
@@ -1638,19 +1638,19 @@
 
 ## Part V—Sex Discrimination Commissioner
 
-##### ##### 96  Sex Discrimination Commissioner
+##### 96  Sex Discrimination Commissioner
 
  (1)  There shall be a Sex Discrimination Commissioner, who shall be appointed by the Governor-General.
 
  (2)  A person is not qualified to be appointed as the Sex Discrimination Commissioner unless the Minister is satisfied that the person has appropriate qualifications, knowledge or experience.
 
-##### ##### 97  Terms and conditions of appointment
+##### 97  Terms and conditions of appointment
 
  (1)  Subject to this section, the Commissioner holds office for such period, not exceeding 7 years, as is specified in the instrument of the person’s appointment, but is eligible for re-appointment.
 
  (3)  The Commissioner holds office on such terms and conditions (if any) in respect of matters not provided for by this Act as are determined by the Governor-General.
 
-##### ##### 98  Remuneration of Commissioner
+##### 98  Remuneration of Commissioner
 
  (1)  The Commissioner shall be paid such remuneration as is determined by the Remuneration Tribunal, but, if no determination of that remuneration by the Remuneration Tribunal is in operation, the Commissioner shall be paid such remuneration as is prescribed.
 
@@ -1658,21 +1658,21 @@
 
  (3)  This section has effect subject to the Remuneration Tribunal Act 1973.
 
-##### ##### 99  Leave of absence
+##### 99  Leave of absence
 
  (1)  The Commissioner has such recreation leave entitlements as are determined by the Remuneration Tribunal.
 
  (2)  The Minister may grant the Commissioner leave of absence, other than recreation leave, on such terms and conditions as to remuneration or otherwise as the Minister determines.
 
-##### ##### 100  Outside employment
+##### 100  Outside employment
 
  The Commissioner shall not, except with the approval of the Minister, engage in paid employment outside the duties of the office of Commissioner.
 
-##### ##### 101  Resignation
+##### 101  Resignation
 
  The Commissioner may resign from the office of Commissioner by writing delivered to the Governor-General.
 
-##### ##### 102  Termination of appointment
+##### 102  Termination of appointment
 
  (1)  The Governor-General may terminate the appointment of the Commissioner by reason of misbehaviour or of physical or mental incapacity.
 
@@ -1684,7 +1684,7 @@
 
   (c)  engages in paid employment outside the duties of the office of Commissioner otherwise than with the consent of the Minister.
 
-##### ##### 103  Acting Commissioner
+##### 103  Acting Commissioner
 
  The Minister may appoint a person to act as Commissioner:
 
@@ -1696,7 +1696,7 @@
 
 ## Part VI—Miscellaneous
 
-##### ##### 104  Delegation
+##### 104  Delegation
 
  (1)  The Commission may by writing under its seal, delegate to a member of the Commission, the Commissioner, a member of the staff of the Commission or another person or body of persons all or any of the powers conferred on the Commission under this Act.
 
@@ -1708,11 +1708,11 @@
 
  approved by the Commission, all or any of the powers exercisable by the Commissioner under this Act.
 
-##### ##### 105  Liability of persons involved in unlawful acts
+##### 105  Liability of persons involved in unlawful acts
 
  A person who causes, instructs, induces, aids or permits another person to do an act that is unlawful under Division 1 or 2 of Part II shall, for the purposes of this Act, be taken also to have done the act.
 
-##### ##### 106  Vicarious liability etc.
+##### 106  Vicarious liability etc.
 
  (1)  Subject to subsection (2), where an employee or agent of a person does, in connection with the employment of the employee or with the duties of the agent as an agent:
 
@@ -1724,19 +1724,19 @@
 
  (2)  Subsection (1) does not apply in relation to an act of a kind referred to in paragraph (1)(a) or (b) done by an employee or agent of a person if it is established that the person took all reasonable steps to prevent the employee or agent from doing acts of the kind referred to in that paragraph.
 
-##### ##### 107  Acts done on behalf of bodies
+##### 107  Acts done on behalf of bodies
 
  (1)  Where, for the purposes of this Act, it is necessary to establish that a body corporate has done an act on a particular ground, it is sufficient to establish that a person who acted on behalf of the body corporate in the matter so acted on that ground.
 
-##### ##### 108  Commonwealth deemed to be employer
+##### 108  Commonwealth deemed to be employer
 
  For the purposes of this Act, all Commonwealth employees shall be deemed to be employed by the Commonwealth.
 
-##### ##### 110  Unlawful act not basis of civil action unless expressly so provided
+##### 110  Unlawful act not basis of civil action unless expressly so provided
 
  Except as expressly provided by this Act, nothing in this Act confers on a person any right of action in respect of the doing of an act that is unlawful by reason of a provision of Part II.
 
-##### ##### 111  Protection from civil actions
+##### 111  Protection from civil actions
 
  (1A)  Subsection (1) applies in relation to any of the following persons:
 
@@ -1756,7 +1756,7 @@
 
  (2)  If a submission has been made, a document or information has been given, or evidence has been given, to the Commission or the Commissioner, a person is not liable to an action, suit or other proceeding in respect of loss, damage or injury of any kind suffered by another person by reason only that submission was made, the document or information was furnished or the evidence was given.
 
-##### ##### 112  Non-disclosure of private information
+##### 112  Non-disclosure of private information
 
  (1)  A person who is, or has at any time been, the Commissioner, a member of the Commission or a member of the staff assisting the Commission or is, or has at any time been, authorized to perform or exercise any function or power of the Commission or the Commissioner or any function or power on behalf of the Commission or the Commissioner, being a function or power conferred on the Commission or on the Commissioner under this Act, shall not, either directly or indirectly:
 
@@ -1802,15 +1802,15 @@
 
  produce includes permit access to.
 
-##### ##### 113  Information stored otherwise than in written form
+##### 113  Information stored otherwise than in written form
 
  Where information is recorded or stored by means of a mechanical, electronic or other device, any duty imposed by this Act to produce the document recording that information shall be construed as a duty to provide a document containing a clear reproduction in writing of the information.
 
-##### ##### 114  Commissioner to furnish information
+##### 114  Commissioner to furnish information
 
  The Commissioner shall furnish to the Commission such information relating to the operations of the Commissioner under this Act as the Commission from time to time requires.
 
-##### ##### 116  Regulations
+##### 116  Regulations
 
  The Governor-General may make regulations, not inconsistent with this Act, prescribing matters:
 
