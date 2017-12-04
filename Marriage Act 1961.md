@@ -12,6 +12,16 @@
 
  (2)  The remaining provisions of this Act shall come into operation on a date to be fixed by Proclamation.
 
+##### 2A  Objects of this Act
+
+ It is an object of this Act to create a legal framework:
+
+ (a)  to allow civil celebrants to solemnise marriage, understood as the union of 2 people to the exclusion of all others, voluntarily entered into for life; and
+
+ (b)  to allow ministers of religion to solemnise marriage, respecting the doctrines, tenets and beliefs of their religion, the views of their religious community or their own religious beliefs; and
+
+ (c)  to allow equal access to marriage while protecting religious freedom in relation to marriage.
+
 ##### 5  Interpretation
 
  (1)  In this Act, unless the contrary intention appears:
