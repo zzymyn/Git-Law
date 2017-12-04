@@ -1530,9 +1530,9 @@ Marriage celebrants who wish to be religious marriage celebrants on the basis of
 
  (1)  A marriage under this Division shall be solemnised:
 
-  (a)  at such place as the chaplain thinks fit, in the presence of at least 2 witnesses who are, or appear to the chaplain to be, over the age of 18; and
+  (a)  at such place as the authorised celebrant thinks fit, in the presence of at least 2 witnesses who are, or appear to the authorised celebrant to be, over the age of 18; and
 
-  (b)  according to such form and ceremony as the chaplain thinks proper.
+  (b)  according to such form and ceremony as the authorised celebrant thinks proper.
 
  (2)  Unless, having regard to the form and ceremony of the marriage, the chaplain considers it unnecessary for the parties to the marriage to do so, each of the parties shall, in some part of the ceremony and in the presence of the chaplain and the witnesses, say to each other the words: 
 
