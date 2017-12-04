@@ -1070,7 +1070,13 @@ Marriage celebrants who wish to be religious marriage celebrants on the basis of
 
    (ii)  the dates of the start and end of the suspension period; or
 
-  (d)  deregister the marriage celebrant by removing his or her details from the register of marriage celebrants.
+  (d)  deregister the marriage celebrant by removing his or her details from the register of marriage celebrants; or
+
+  (e)  if the marriage celebrant is identified as a religious marriage celebrant on the register of marriage celebrants:
+
+   (i)  remove the identification of the marriage celebrant as a religious marriage celebrant from the register for a period (the **suspension period**) of up to 6 months by annotating the register of marriage celebrants to include a statement that the celebrant is not identified as a religious marriage celebrant, and the dates of the start and end of the suspension period; or
+
+   (ii)  remove the identification of the marriage celebrant as a religious marriage celebrant permanently from the register.
 
   Note:  A decision to suspend a marriage celebrant’s registration, or to deregister a marriage celebrant, is reviewable under section 39J.
 
