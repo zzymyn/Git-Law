@@ -124,7 +124,7 @@
 
   Chapter 2 of the *Criminal Code* applies to all offences against this Act.
 
-  Note:          Chapter 2 of the *Criminal Code* sets out the general principles of criminal responsibility.
+  Note:  Chapter 2 of the *Criminal Code* sets out the general principles of criminal responsibility.
 
 ##### 6  Act not to exclude operation of certain State and Territory laws
 
@@ -782,7 +782,7 @@
 
    (ii)  been granted an exemption from liability to pay the registration application fee.
 
-  Note:          The application is made on the day on which paragraphs (a) and (b) are first satisfied in relation to the application.
+  Note:  The application is made on the day on which paragraphs (a) and (b) are first satisfied in relation to the application.
 
 ###### Registration application fees
 
@@ -854,7 +854,7 @@
 
   The charge must be paid by the end of the charge payment day.
 
-  Note:          For the imposition and rate of the charge, see the *Marriage (Celebrant Registration Charge) Act 2014*.
+  Note:  For the imposition and rate of the charge, see the *Marriage (Celebrant Registration Charge) Act 2014*.
 
  (2)  The Registrar of Marriage Celebrants must, in respect of a financial year, send each person who is a marriage celebrant on 1 July in the financial year, or who becomes a marriage celebrant on a later day in the financial year, a notice that:
 
@@ -896,7 +896,7 @@
 
   (b)  any other circumstance of which the Registrar is aware.
 
-  Note:          Depending on the outcome of matters referred to in paragraph (a) or (b), it may turn out that the person is not liable to pay the charge.
+  Note:  Depending on the outcome of matters referred to in paragraph (a) or (b), it may turn out that the person is not liable to pay the charge.
 
  (2)  The notice referred to in subsection (1) must:
 
@@ -906,7 +906,7 @@
 
  (3)  The Registrar of Marriage Celebrants must deregister the person as a marriage celebrant by removing his or her details from the register of marriage celebrants as soon as practicable after the day specified under paragraph (2)(a).
 
-  Note:          If the person wishes to become a marriage celebrant again, the person may reapply under section 39D.
+  Note:  If the person wishes to become a marriage celebrant again, the person may reapply under section 39D.
 
 ##### 39G  Obligations of each marriage celebrant
 
@@ -922,7 +922,7 @@
 
    (ii)  the occurrence of an event that might have caused the Registrar not to register the person as a marriage celebrant if the event had occurred before the person was registered.
 
-  Note:          If a marriage celebrant fails to comply with these obligations, the Registrar may take disciplinary measures under section 39I.
+  Note:  If a marriage celebrant fails to comply with these obligations, the Registrar may take disciplinary measures under section 39I.
 
  (2)  Without limiting subsection (1), the regulations may require a fee to be paid in respect of an application for an exemption from requirements prescribed by regulations made for the purpose of paragraph (1)(b). The regulations may specify the fee, or provide for the fee to be determined by the Minister by legislative instrument.
 
@@ -930,7 +930,7 @@
 
  (1)  The Registrar of Marriage Celebrants may, from time to time, review the performance of a marriage celebrant in respect of a period to determine whether the Registrar considers that the celebrant’s performance in the period is satisfactory.
 
-  Note:          The period to which a review relates is at the discretion of the Registrar.
+  Note:  The period to which a review relates is at the discretion of the Registrar.
 
  (3)  In reviewing the performance of a marriage celebrant, the Registrar:
 
@@ -978,7 +978,7 @@
 
   (d)  deregister the marriage celebrant by removing his or her details from the register of marriage celebrants.
 
-  Note:          A decision to suspend a marriage celebrant’s registration, or to deregister a marriage celebrant, is reviewable under section 39J.
+  Note:  A decision to suspend a marriage celebrant’s registration, or to deregister a marriage celebrant, is reviewable under section 39J.
 
  (3)  If the Registrar suspends a marriage celebrant’s registration for a particular period, section 39F does not apply in respect of the marriage celebrant during the period.
 
@@ -1802,7 +1802,7 @@
 
  (1A)  For the purposes of an offence against subsection (1), strict liability applies to the physical element of circumstance, that the person was married when the form or ceremony took place.
 
-  Note:          For **strict liability**, see section 6.1 of the *Criminal Code*.
+  Note:  For **strict liability**, see section 6.1 of the *Criminal Code*.
 
  (2)  It is a defence to a prosecution for an offence against subsection (1) if the defendant proves that:
 
@@ -1842,7 +1842,7 @@
 
  (1A)  For the purposes of an offence against subsection (1), strict liability applies to the physical element of circumstance, that the person is not of marriageable age.
 
-  Note:          For **strict liability**, see section 6.1 of the *Criminal Code*.
+  Note:  For **strict liability**, see section 6.1 of the *Criminal Code*.
 
  (2)  A person shall not go through a form or ceremony of marriage with a person (in this subsection referred to as **the other party to the marriage**) who is a minor unless:
 
@@ -1854,7 +1854,7 @@
 
  (2A)  For the purposes of an offence against subsection (2), strict liability applies to the physical element of circumstance, that the other party to the marriage is a minor.
 
-  Note:          For **strict liability**, see section 6.1 of the *Criminal Code*.
+  Note:  For **strict liability**, see section 6.1 of the *Criminal Code*.
 
  (3)  It is a defence to a prosecution for an offence against subsection (1) if the defendant proves that he or she believed on reasonable grounds that the person with whom he or she went through the form or ceremony of marriage was of marriageable age.
 
@@ -1920,11 +1920,11 @@
 
  (2)  Subsection (1) does not apply if the person has a reasonable excuse.
 
-  Note:          A defendant bears an evidential burden in relation to the matter in subsection (2) (see subsection 13.3(3) of the *Criminal Code*).
+  Note:  A defendant bears an evidential burden in relation to the matter in subsection (2) (see subsection 13.3(3) of the *Criminal Code*).
 
  (3)  Subsection (1) is an offence of strict liability.
 
-  Note:          For **strict liability**, see section 6.1 of the *Criminal Code*.
+  Note:  For **strict liability**, see section 6.1 of the *Criminal Code*.
 
 ##### 106  Failure by interpreter to furnish certificate etc.
 
