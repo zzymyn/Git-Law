@@ -1830,16 +1830,6 @@ Marriage celebrants who wish to be religious marriage celebrants on the basis of
 
  (4)  This Part shall not be taken to limit or exclude the operation of a provision of any other law of the Commonwealth, or of a law of a State or Territory, that deems a union in the nature of a marriage to be a marriage for the purposes of the law in which the provision is included.
 
-##### 88EA  Certain unions are not marriages
-
-  A union solemnised in a foreign country between:
-
-  (a)  a man and another man; or
-
-  (b)  a woman and another woman;
-
-  must not be recognised as a marriage in Australia.
-
 ##### 88F  Incidental determination of recognition of certain foreign marriages
 
   Notwithstanding any other law, the question whether a marriage solemnised in a foreign country is to be recognised in Australia as valid shall be determined in accordance with the provisions of this Part, whether or not the determination of the question is incidental to the determination of another question.
