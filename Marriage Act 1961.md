@@ -1046,6 +1046,8 @@ Marriage celebrants who wish to be religious marriage celebrants on the basis of
 
   (a)  is satisfied that the marriage celebrant is no longer entitled to be registered as a marriage celebrant; or
 
+  (aa)  is satisfied that the marriage celebrant is no longer entitled to be identified as a religious marriage celebrant on the register of marriage celebrants; or
+
   (b)  is satisfied that the marriage celebrant has not complied with an obligation under section 39G; or
 
   (c)  has determined in writing under section 39H that the marriage celebrant’s performance in respect of a period was not satisfactory; or
