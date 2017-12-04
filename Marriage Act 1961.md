@@ -450,7 +450,7 @@
 
   (a)  the marriage does not take place within 3 months after the date of the dispensation; or
 
-  (b)  before the marriage takes place, the person whose consent has been dispensed with notifies, by writing signed by the person or in any other prescribed manner, the person to whom notice of the intended marriage has been given under this Act or, in the case of an intended marriage under Division 3 of Part V, the chaplain by whom or in whose presence the marriage is intended to be solemnised, that the first‑mentioned person does not consent to the marriage.
+  (b)  before the marriage takes place, the person whose consent has been dispensed with notifies, by writing signed by the person or in any other prescribed manner, the person to whom notice of the intended marriage has been given under this Act or, in the case of an intended marriage under Division 3 of Part V, the authorised celebrant by whom or in whose presence the marriage is intended to be solemnised, that the first‑mentioned person does not consent to the marriage.
 
  (3)  Where a consent by a magistrate or a Judge or a dispensation with the consent of a person by a prescribed authority has ceased to have effect, the provisions of this Act apply as if the consent had not been given or dispensed with, as the case may be.
 
