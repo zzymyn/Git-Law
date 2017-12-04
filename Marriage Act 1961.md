@@ -1054,7 +1054,9 @@ Marriage celebrants who wish to be religious marriage celebrants on the basis of
 
   (d)  is satisfied that it is appropriate to take disciplinary measures against the marriage celebrant after considering a complaint in accordance with the complaints resolution procedures established under paragraph 39K(c); or
 
-  (e)  is satisfied that the marriage celebrant’s application for registration was known by the marriage celebrant to be false or misleading in a material particular.
+  (e)  is satisfied that the marriage celebrant’s application for registration was known by the marriage celebrant to be false or misleading in a material particular; or
+
+  (f)  is satisfied that the marriage celebrant’s notice under section 39DB or paragraph 39DD(2)(b) (notice requesting to be identified as a religious marriage celebrant) was known by the marriage celebrant to be false or misleading in a material particular.
 
  (2)  The only disciplinary measures that the Registrar may take against a marriage celebrant are to:
 
