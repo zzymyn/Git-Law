@@ -72,11 +72,11 @@
 
 &emsp;&emsp;(b)  in relation to a religious body or a religious organisation in respect of which paragraph (a) is not applicable, a person nominated by:
 
-&emsp;&emsp;        (i)  the head, or the governing authority, in a State or Territory, of that body or organisation; or
+&emsp;&emsp;&emsp;(i)  the head, or the governing authority, in a State or Territory, of that body or organisation; or
 
-&emsp;&emsp;       (ii)  such other person or authority acting on behalf of that body or organisation as is prescribed;
+&emsp;&emsp;&emsp;(ii)  such other person or authority acting on behalf of that body or organisation as is prescribed;
 
-&emsp;&emsp;      to be an authorised celebrant for the purposes of this Act.
+&emsp;&emsp;&emsp;to be an authorised celebrant for the purposes of this Act.
 
 &emsp;&emsp;**minor** means a person who has not attained the age of 18 years.
 
@@ -260,9 +260,9 @@
 
 &emsp;&emsp;(a)  in respect of each person whose consent is required by this Act to the marriage of the minor, not being a person to whom paragraph (b) is applicable:
 
-&emsp;&emsp;        (i)  the consent in writing of that person, duly witnessed and dated not earlier than 3 months before the date on which the marriage is solemnised or, in such cases as are prescribed, such other evidence that the consent of that person to the intended marriage has been given not earlier than that time as the regulations declare to be sufficient for the purposes of this section; or
+&emsp;&emsp;&emsp;(i)  the consent in writing of that person, duly witnessed and dated not earlier than 3 months before the date on which the marriage is solemnised or, in such cases as are prescribed, such other evidence that the consent of that person to the intended marriage has been given not earlier than that time as the regulations declare to be sufficient for the purposes of this section; or
 
-&emsp;&emsp;       (ii)  an effective consent in writing of a magistrate or a Judge under this Part in place of the consent of that person; and
+&emsp;&emsp;&emsp;(ii)  an effective consent in writing of a magistrate or a Judge under this Part in place of the consent of that person; and
 
 &emsp;&emsp;(b)  in respect of any person whose consent to the marriage of the minor has been dispensed with by a prescribed authority—the dispensation in writing signed by the prescribed authority.
 
@@ -270,35 +270,35 @@
 
 &emsp;&emsp;(a)  if the consent is signed in Australia—by one of the following persons:
 
-&emsp;&emsp;        (i)  an authorised celebrant;
+&emsp;&emsp;&emsp;(i)  an authorised celebrant;
 
-&emsp;&emsp;       (ii)  a Commissioner for Declarations under the *Statutory Declarations Act 1959*;
+&emsp;&emsp;&emsp;(ii)  a Commissioner for Declarations under the *Statutory Declarations Act 1959*;
 
-&emsp;&emsp;      (iii)  a justice of the peace;
+&emsp;&emsp;&emsp;(iii)  a justice of the peace;
 
-&emsp;&emsp;      (iv)  a barrister or solicitor;
+&emsp;&emsp;&emsp;(iv)  a barrister or solicitor;
 
-&emsp;&emsp;       (v)  a legally qualified medical practitioner;
+&emsp;&emsp;&emsp;(v)  a legally qualified medical practitioner;
 
-&emsp;&emsp;      (vi)  a member of the Australian Federal Police or the police force of a State or Territory; or
+&emsp;&emsp;&emsp;(vi)  a member of the Australian Federal Police or the police force of a State or Territory; or
 
 &emsp;&emsp;(b)  if the consent is signed in any other place—by one of the following persons:
 
-&emsp;&emsp;        (i)  an Australian Diplomatic Officer;
+&emsp;&emsp;&emsp;(i)  an Australian Diplomatic Officer;
 
-&emsp;&emsp;       (ii)  an Australian Consular Officer;
+&emsp;&emsp;&emsp;(ii)  an Australian Consular Officer;
 
-&emsp;&emsp;      (iii)  a minister of religion of that place;
+&emsp;&emsp;&emsp;(iii)  a minister of religion of that place;
 
-&emsp;&emsp;      (iv)  a judge of a court of that place;
+&emsp;&emsp;&emsp;(iv)  a judge of a court of that place;
 
-&emsp;&emsp;       (v)  a magistrate or justice of the peace of or for that place;
+&emsp;&emsp;&emsp;(v)  a magistrate or justice of the peace of or for that place;
 
-&emsp;&emsp;      (vi)  a notary public;
+&emsp;&emsp;&emsp;(vi)  a notary public;
 
-&emsp;&emsp;     (vii)  an employee of the Commonwealth authorised under paragraph 3(c) of the *Consular Fees Act 1955*;
+&emsp;&emsp;&emsp;(vii)  an employee of the Commonwealth authorised under paragraph 3(c) of the *Consular Fees Act 1955*;
 
-&emsp;&emsp;    (viii)  an employee of the Australian Trade and Investment Commission authorised under paragraph 3(d) of the *Consular Fees Act 1955*.
+&emsp;&emsp;&emsp;(viii)  an employee of the Australian Trade and Investment Commission authorised under paragraph 3(d) of the *Consular Fees Act 1955*.
 
 &emsp;(3)  A person shall not subscribe his or her name as a witness to the signature of a person to a consent to a marriage unless:
 
@@ -452,11 +452,11 @@
 
 &emsp;&emsp;(d)  the consent of either of the parties was not a real consent because:
 
-&emsp;&emsp;        (i)  it was obtained by duress or fraud;
+&emsp;&emsp;&emsp;(i)  it was obtained by duress or fraud;
 
-&emsp;&emsp;       (ii)  that party was mistaken as to the identity of the other party or as to the nature of the ceremony performed; or
+&emsp;&emsp;&emsp;(ii)  that party was mistaken as to the identity of the other party or as to the nature of the ceremony performed; or
 
-&emsp;&emsp;      (iii)  that party was mentally incapable of understanding the nature and effect of the marriage ceremony; or
+&emsp;&emsp;&emsp;(iii)  that party was mentally incapable of understanding the nature and effect of the marriage ceremony; or
 
 &emsp;&emsp;(e)  either of the parties was not of marriageable age;
 
@@ -508,11 +508,11 @@
 
 &emsp;&emsp;(d)  the consent of either of the parties is not a real consent because:
 
-&emsp;&emsp;        (i)  it was obtained by duress or fraud;
+&emsp;&emsp;&emsp;(i)  it was obtained by duress or fraud;
 
-&emsp;&emsp;       (ii)  that party is mistaken as to the identity of the other party or as to the nature of the ceremony performed; or
+&emsp;&emsp;&emsp;(ii)  that party is mistaken as to the identity of the other party or as to the nature of the ceremony performed; or
 
-&emsp;&emsp;      (iii)  that party is mentally incapable of understanding the nature and effect of the marriage ceremony; or
+&emsp;&emsp;&emsp;(iii)  that party is mentally incapable of understanding the nature and effect of the marriage ceremony; or
 
 &emsp;&emsp;(e)  either of the parties is not of marriageable age;
 
@@ -624,11 +624,11 @@
 
 &emsp;&emsp;(d)  that person:
 
-&emsp;&emsp;        (i)  has been guilty of such contraventions of this Act or the regulations as to show him or her not to be a fit and proper person to be registered under this Subdivision;
+&emsp;&emsp;&emsp;(i)  has been guilty of such contraventions of this Act or the regulations as to show him or her not to be a fit and proper person to be registered under this Subdivision;
 
-&emsp;&emsp;       (ii)  has been making a business of solemnising marriages for the purpose of profit or gain; or
+&emsp;&emsp;&emsp;(ii)  has been making a business of solemnising marriages for the purpose of profit or gain; or
 
-&emsp;&emsp;      (iii)  is not a fit and proper person to solemnise marriages; or
+&emsp;&emsp;&emsp;(iii)  is not a fit and proper person to solemnise marriages; or
 
 &emsp;&emsp;(e)  that person is, for any other reason, not entitled to registration under this Subdivision.
 
@@ -636,9 +636,9 @@
 
 &emsp;&emsp;(a)  the Registrar has, in accordance with the regulations, served on the person a notice in writing:
 
-&emsp;&emsp;        (i)  stating the Registrar’s intention to do so on that ground unless, not later than a date specified in the notice and being not less than 21 days from the date of service of the notice, the person satisfies the Registrar that the person’s name should not be removed from the register; and
+&emsp;&emsp;&emsp;(i)  stating the Registrar’s intention to do so on that ground unless, not later than a date specified in the notice and being not less than 21 days from the date of service of the notice, the person satisfies the Registrar that the person’s name should not be removed from the register; and
 
-&emsp;&emsp;       (ii)  informing the person that any representations made to the Registrar before that date will be considered by the Registrar;
+&emsp;&emsp;&emsp;(ii)  informing the person that any representations made to the Registrar before that date will be considered by the Registrar;
 
 &emsp;&emsp;(b)  the Registrar has considered any representations made by the person before the date specified in the notice; and
 
@@ -778,9 +778,9 @@
 
 &emsp;&emsp;(b)  the applicant has either:
 
-&emsp;&emsp;        (i)  paid the registration application fee in respect of the application; or
+&emsp;&emsp;&emsp;(i)  paid the registration application fee in respect of the application; or
 
-&emsp;&emsp;       (ii)  been granted an exemption from liability to pay the registration application fee.
+&emsp;&emsp;&emsp;(ii)  been granted an exemption from liability to pay the registration application fee.
 
 &emsp;&emsp;Note:          The application is made on the day on which paragraphs (a) and (b) are first satisfied in relation to the application.
 
@@ -846,9 +846,9 @@
 
 &emsp;&emsp;(a)  the person:
 
-&emsp;&emsp;        (i)  is a marriage celebrant on 1 July in that financial year; or
+&emsp;&emsp;&emsp;(i)  is a marriage celebrant on 1 July in that financial year; or
 
-&emsp;&emsp;       (ii)  becomes a marriage celebrant later in that financial year; and
+&emsp;&emsp;&emsp;(ii)  becomes a marriage celebrant later in that financial year; and
 
 &emsp;&emsp;(b)  the person has not, before the end of the charge payment day, been granted an exemption from liability to pay the charge.
 
@@ -860,9 +860,9 @@
 
 &emsp;&emsp;(a)  specifies:
 
-&emsp;&emsp;        (i)  the amount of celebrant registration charge that is payable by the person (unless the person is granted an exemption); and
+&emsp;&emsp;&emsp;(i)  the amount of celebrant registration charge that is payable by the person (unless the person is granted an exemption); and
 
-&emsp;&emsp;       (ii)  the **charge payment day** (being a day that is at least 30 days after the day on which the notice is sent); and
+&emsp;&emsp;&emsp;(ii)  the **charge payment day** (being a day that is at least 30 days after the day on which the notice is sent); and
 
 &emsp;&emsp;(b)  complies with any other requirements prescribed by the regulations relating to the content of the notice, or how it is to be sent.
 
@@ -918,9 +918,9 @@
 
 &emsp;&emsp;(c)  notify the Registrar, in writing, within 30 days of:
 
-&emsp;&emsp;        (i)  a change that results in the details entered in the register in relation to the person no longer being correct; or
+&emsp;&emsp;&emsp;(i)  a change that results in the details entered in the register in relation to the person no longer being correct; or
 
-&emsp;&emsp;       (ii)  the occurrence of an event that might have caused the Registrar not to register the person as a marriage celebrant if the event had occurred before the person was registered.
+&emsp;&emsp;&emsp;(ii)  the occurrence of an event that might have caused the Registrar not to register the person as a marriage celebrant if the event had occurred before the person was registered.
 
 &emsp;&emsp;Note:          If a marriage celebrant fails to comply with these obligations, the Registrar may take disciplinary measures under section 39I.
 
@@ -942,9 +942,9 @@
 
 &emsp;&emsp;(a)  the Registrar has given the marriage celebrant a written notice:
 
-&emsp;&emsp;        (i)  stating the Registrar’s intention to make the determination unless, before the date specified in the notice (which must be at least 21 days after the date on which the notice was given), the marriage celebrant satisfies the Registrar that the marriage celebrant’s performance in respect of the period was satisfactory; and
+&emsp;&emsp;&emsp;(i)  stating the Registrar’s intention to make the determination unless, before the date specified in the notice (which must be at least 21 days after the date on which the notice was given), the marriage celebrant satisfies the Registrar that the marriage celebrant’s performance in respect of the period was satisfactory; and
 
-&emsp;&emsp;       (ii)  informing the marriage celebrant that any representations made to the Registrar before that date will be considered by the Registrar; and
+&emsp;&emsp;&emsp;(ii)  informing the marriage celebrant that any representations made to the Registrar before that date will be considered by the Registrar; and
 
 &emsp;&emsp;(b)  the Registrar has considered any representations made by the marriage celebrant before the date specified in the notice; and
 
@@ -972,9 +972,9 @@
 
 &emsp;&emsp;(c)  suspend the marriage celebrant’s registration for a period (the **suspension period**) of up to 6 months by annotating the register of marriage celebrants to include:
 
-&emsp;&emsp;        (i)  a statement that the registration is suspended; and
+&emsp;&emsp;&emsp;(i)  a statement that the registration is suspended; and
 
-&emsp;&emsp;       (ii)  the dates of the start and end of the suspension period; or
+&emsp;&emsp;&emsp;(ii)  the dates of the start and end of the suspension period; or
 
 &emsp;&emsp;(d)  deregister the marriage celebrant by removing his or her details from the register of marriage celebrants.
 
@@ -986,13 +986,13 @@
 
 &emsp;&emsp;(a)  must give the marriage celebrant written notice of:
 
-&emsp;&emsp;        (i)  the decision; and
+&emsp;&emsp;&emsp;(i)  the decision; and
 
-&emsp;&emsp;       (ii)  the reasons for it; and
+&emsp;&emsp;&emsp;(ii)  the reasons for it; and
 
-&emsp;&emsp;      (iii)  the disciplinary measure that is being taken; and
+&emsp;&emsp;&emsp;(iii)  the disciplinary measure that is being taken; and
 
-&emsp;&emsp;      (iv)  the marriage celebrant’s right under section 39J to apply for review of the decision; and
+&emsp;&emsp;&emsp;(iv)  the marriage celebrant’s right under section 39J to apply for review of the decision; and
 
 &emsp;&emsp;(b)  may inform the community, in any way the Registrar thinks appropriate, including by electronic means, that the disciplinary measure is being taken against the marriage celebrant.
 
@@ -1012,9 +1012,9 @@
 
 &emsp;&emsp;(b)  at the end of 3 months after the day on which the application was made, the person has not been:
 
-&emsp;&emsp;        (i)  registered; or
+&emsp;&emsp;&emsp;(i)  registered; or
 
-&emsp;&emsp;       (ii)  notified by the Registrar that that person’s application has been refused;
+&emsp;&emsp;&emsp;(ii)  notified by the Registrar that that person’s application has been refused;
 
 &emsp;&emsp;the Registrar is taken to have decided, on the last day of the 3 month period, not to register that person as a marriage celebrant.
 
@@ -1074,21 +1074,21 @@
 
 &emsp;&emsp;(b)  there has been produced to that authorised celebrant, in respect of each of the parties:
 
-&emsp;&emsp;        (i)  an official certificate, or an official extract of an entry in an official register, showing the date and place of birth of the party; or
+&emsp;&emsp;&emsp;(i)  an official certificate, or an official extract of an entry in an official register, showing the date and place of birth of the party; or
 
-&emsp;&emsp;       (ii)  a statutory declaration made by the party or a parent of the party stating that, for reasons specified in the declaration, it is impracticable to obtain such a certificate or extract and stating, to the best of the declarant’s knowledge and belief and as accurately as the declarant has been able to ascertain, when and where the party was born; or
+&emsp;&emsp;&emsp;(ii)  a statutory declaration made by the party or a parent of the party stating that, for reasons specified in the declaration, it is impracticable to obtain such a certificate or extract and stating, to the best of the declarant’s knowledge and belief and as accurately as the declarant has been able to ascertain, when and where the party was born; or
 
-&emsp;&emsp;      (iii)  a passport issued by a government of an overseas country, showing the date and place of birth of the party; or
+&emsp;&emsp;&emsp;(iii)  a passport issued by a government of an overseas country, showing the date and place of birth of the party; or
 
-&emsp;&emsp;      (iv)  an Australian passport, showing the date and place of birth of the party; and
+&emsp;&emsp;&emsp;(iv)  an Australian passport, showing the date and place of birth of the party; and
 
 &emsp;&emsp;(c)  each of the parties has made and subscribed before that authorised celebrant a declaration, in writing, as to:
 
-&emsp;&emsp;        (i)  the party’s conjugal status;
+&emsp;&emsp;&emsp;(i)  the party’s conjugal status;
 
-&emsp;&emsp;       (ii)  the party’s belief that there is no legal impediment to the marriage; and
+&emsp;&emsp;&emsp;(ii)  the party’s belief that there is no legal impediment to the marriage; and
 
-&emsp;&emsp;      (iii)  such other matters as are prescribed.
+&emsp;&emsp;&emsp;(iii)  such other matters as are prescribed.
 
 &emsp;(2)  A notice under subsection (1):
 
@@ -1098,29 +1098,29 @@
 
 &emsp;&emsp;(c)  if a party signs the notice in Australia—must be signed in the presence of:
 
-&emsp;&emsp;        (i)  an authorised celebrant; or
+&emsp;&emsp;&emsp;(i)  an authorised celebrant; or
 
-&emsp;&emsp;       (ii)  a Commissioner for Declarations under the *Statutory Declarations Act 1959*; or
+&emsp;&emsp;&emsp;(ii)  a Commissioner for Declarations under the *Statutory Declarations Act 1959*; or
 
-&emsp;&emsp;      (iii)  a justice of the peace; or
+&emsp;&emsp;&emsp;(iii)  a justice of the peace; or
 
-&emsp;&emsp;      (iv)  a barrister or solicitor; or
+&emsp;&emsp;&emsp;(iv)  a barrister or solicitor; or
 
-&emsp;&emsp;       (v)  a legally qualified medical practitioner; or
+&emsp;&emsp;&emsp;(v)  a legally qualified medical practitioner; or
 
-&emsp;&emsp;      (vi)  a member of the Australian Federal Police or the police force of a State or Territory; and
+&emsp;&emsp;&emsp;(vi)  a member of the Australian Federal Police or the police force of a State or Territory; and
 
 &emsp;&emsp;(d)  if a party signs the notice outside Australia—must be signed in the presence of:
 
-&emsp;&emsp;        (i)  an Australian Diplomatic Officer; or
+&emsp;&emsp;&emsp;(i)  an Australian Diplomatic Officer; or
 
-&emsp;&emsp;       (ii)  an Australian Consular Officer; or
+&emsp;&emsp;&emsp;(ii)  an Australian Consular Officer; or
 
-&emsp;&emsp;      (iii)  a notary public; or
+&emsp;&emsp;&emsp;(iii)  a notary public; or
 
-&emsp;&emsp;      (iv)  an employee of the Commonwealth authorised under paragraph 3(c) of the *Consular Fees Act 1955*; or
+&emsp;&emsp;&emsp;(iv)  an employee of the Commonwealth authorised under paragraph 3(c) of the *Consular Fees Act 1955*; or
 
-&emsp;&emsp;       (v)  an employee of the Australian Trade and Investment Commission authorised under paragraph 3(d) of the *Consular Fees Act 1955*.
+&emsp;&emsp;&emsp;(v)  an employee of the Australian Trade and Investment Commission authorised under paragraph 3(d) of the *Consular Fees Act 1955*.
 
 &emsp;(3)  However, if the signature of a party to an intended marriage cannot conveniently be obtained at the time when it is desired to give notice under this section, a notice duly signed by the other party and otherwise complying with the provisions of this section shall, if it is signed by the first‑mentioned party in the presence of an authorised celebrant before the marriage is solemnised, be deemed to have been a sufficient notice.
 
@@ -1140,9 +1140,9 @@
 
 &emsp;&emsp;(b)  if the authorised celebrant has reason to believe that:
 
-&emsp;&emsp;        (i)  a notice given under this section; or
+&emsp;&emsp;&emsp;(i)  a notice given under this section; or
 
-&emsp;&emsp;       (ii)  a declaration made and subscribed under this section, or a statutory declaration made for the purposes of this section;
+&emsp;&emsp;&emsp;(ii)  a declaration made and subscribed under this section, or a statutory declaration made for the purposes of this section;
 
 &emsp;&emsp;in relation to the marriage, contains a false statement or an error or is defective.
 
@@ -1208,9 +1208,9 @@
 
 &emsp;&emsp;(b)  prevents such an authorised celebrant from making it a condition of his or her solemnising a marriage that:
 
-&emsp;&emsp;        (i)  longer notice of intention to marry than that required by this Act is given; or
+&emsp;&emsp;&emsp;(i)  longer notice of intention to marry than that required by this Act is given; or
 
-&emsp;&emsp;       (ii)  requirements additional to those provided by this Act are observed.
+&emsp;&emsp;&emsp;(ii)  requirements additional to those provided by this Act are observed.
 
 ##### 48  Certain marriages not solemnised in accordance with this Division to be invalid
 
@@ -1254,9 +1254,9 @@
 
 &emsp;&emsp;(a)  where 2 official certificates have been prepared:
 
-&emsp;&emsp;        (i)  within 14 days after the solemnisation of the marriage, forward the official certificate to which subsection (3) applies, together with the notice under section 42, the order (if any) under section 12 and any statutory declarations, consents and dispensations with consents relating to the marriage that are in his or her possession, to the appropriate registering authority of a State or Territory ascertained in accordance with the regulations; and
+&emsp;&emsp;&emsp;(i)  within 14 days after the solemnisation of the marriage, forward the official certificate to which subsection (3) applies, together with the notice under section 42, the order (if any) under section 12 and any statutory declarations, consents and dispensations with consents relating to the marriage that are in his or her possession, to the appropriate registering authority of a State or Territory ascertained in accordance with the regulations; and
 
-&emsp;&emsp;       (ii)  retain the other official certificate and deal with it in accordance with the regulations; or
+&emsp;&emsp;&emsp;(ii)  retain the other official certificate and deal with it in accordance with the regulations; or
 
 &emsp;&emsp;(b)  where only 1 official certificate has been prepared—retain that certificate and deal with it in accordance with the regulations.
 
@@ -1416,9 +1416,9 @@
 
 &emsp;&emsp;(b)  where 1 party to the intended marriage is not an Australian citizen or a member of the Defence Force:
 
-&emsp;&emsp;        (i)  that that party is not a subject or citizen of the overseas country; or
+&emsp;&emsp;&emsp;(i)  that that party is not a subject or citizen of the overseas country; or
 
-&emsp;&emsp;       (ii)  that sufficient facilities do not exist for the solemnisation of the marriage in the overseas country in accordance with the law of that country;
+&emsp;&emsp;&emsp;(ii)  that sufficient facilities do not exist for the solemnisation of the marriage in the overseas country in accordance with the law of that country;
 
 &emsp;&emsp;(c)  where 1 party to the intended marriage is a subject or citizen of the overseas country, that objection will not be taken by the authorities of that country to the solemnisation of the intended marriage under this Part; or
 
@@ -1536,9 +1536,9 @@
 
 &emsp;&emsp;(b)  a party to the marriage who is an Australian citizen or a member of the Defence Force produces to a chaplain in the country in which the marriage was solemnised:
 
-&emsp;&emsp;        (i)  a copy of the entry in respect of the marriage in the marriage register of that country certified by the appropriate authority in that country to be a true copy of that entry; and
+&emsp;&emsp;&emsp;(i)  a copy of the entry in respect of the marriage in the marriage register of that country certified by the appropriate authority in that country to be a true copy of that entry; and
 
-&emsp;&emsp;       (ii)  if the copy of that entry is not in the English language—a translation into the English language of that copy; and
+&emsp;&emsp;&emsp;(ii)  if the copy of that entry is not in the English language—a translation into the English language of that copy; and
 
 &emsp;&emsp;(c)  the chaplain is satisfied that the copy of the entry in the marriage register is a true copy and that the translation, if any, is a true translation;
 
@@ -1590,9 +1590,9 @@
 
 &emsp;&emsp;(b)  if the marriage was solemnised by or in the presence of a diplomatic or consular officer of another foreign country:
 
-&emsp;&emsp;        (i)  under the law of that other foreign country, the marriage was, at the time when it was solemnised, recognised as valid; and
+&emsp;&emsp;&emsp;(i)  under the law of that other foreign country, the marriage was, at the time when it was solemnised, recognised as valid; and
 
-&emsp;&emsp;       (ii)  at the time when it was solemnised, the solemnisation of the marriage was not prohibited by the local law.
+&emsp;&emsp;&emsp;(ii)  at the time when it was solemnised, the solemnisation of the marriage was not prohibited by the local law.
 
 &emsp;(2)  Where a marriage (not being a marriage referred to in subsection (1)) that was solemnised, whether before or after the commencement of this Part, in a foreign country:
 
@@ -1634,9 +1634,9 @@
 
 &emsp;&emsp;(d)  at the time when the subsequent marriage was solemnised:
 
-&emsp;&emsp;        (i)  the subsequent marriage was recognised in Australia as valid; and
+&emsp;&emsp;&emsp;(i)  the subsequent marriage was recognised in Australia as valid; and
 
-&emsp;&emsp;       (ii)  the initial marriage was not recognised in Australia as valid;
+&emsp;&emsp;&emsp;(ii)  the initial marriage was not recognised in Australia as valid;
 
 &emsp;&emsp;the initial marriage shall not be recognised at any time in Australia as valid.
 
@@ -1680,15 +1680,15 @@
 
 &emsp;&emsp;(a)  in relation to a foreign country:
 
-&emsp;&emsp;        (i)  any authority that is prescribed in relation to that country by regulations made for the purposes of this paragraph; or
+&emsp;&emsp;&emsp;(i)  any authority that is prescribed in relation to that country by regulations made for the purposes of this paragraph; or
 
-&emsp;&emsp;       (ii)  any other authority that is competent, under the law in force in that country, to issue the original or a certified copy of a certificate, entry or record of a marriage solemnised in, or under the law of, that country; and
+&emsp;&emsp;&emsp;(ii)  any other authority that is competent, under the law in force in that country, to issue the original or a certified copy of a certificate, entry or record of a marriage solemnised in, or under the law of, that country; and
 
 &emsp;&emsp;(b)  in relation to a part of a foreign country:
 
-&emsp;&emsp;        (i)  any authority that is prescribed in relation to that part of that country by regulations made for the purposes of this paragraph; or
+&emsp;&emsp;&emsp;(i)  any authority that is prescribed in relation to that part of that country by regulations made for the purposes of this paragraph; or
 
-&emsp;&emsp;       (ii)  any other authority that is competent, under the law in force in that part of that country, to issue the original or a certified copy of a certificate, entry or record of a marriage solemnised in that part of that country.
+&emsp;&emsp;&emsp;(ii)  any other authority that is competent, under the law in force in that part of that country, to issue the original or a certified copy of a certificate, entry or record of a marriage solemnised in that part of that country.
 
 ## Part VI—Legitimation
 
@@ -1702,9 +1702,9 @@
 
 &emsp;&emsp;(a)  at the time of the marriage of the child’s parents:
 
-&emsp;&emsp;        (i)  where that marriage took place before the commencement of section 24 of the *Marriage Amendment Act 1985*—the child’s father was domiciled in Australia; or
+&emsp;&emsp;&emsp;(i)  where that marriage took place before the commencement of section 24 of the *Marriage Amendment Act 1985*—the child’s father was domiciled in Australia; or
 
-&emsp;&emsp;       (ii)  in any other case—one of the child’s parents was domiciled in Australia; or
+&emsp;&emsp;&emsp;(ii)  in any other case—one of the child’s parents was domiciled in Australia; or
 
 &emsp;&emsp;(b)  the marriage of the child’s parents took place in Australia, or outside Australia under Part V of this Act or under the *Marriage (Overseas) Act 1955*.
 
@@ -1770,9 +1770,9 @@
 
 &emsp;&emsp;(a)  the rights of another person unless that other person was:
 
-&emsp;&emsp;        (i)  a party to the proceedings for the order or a person claiming through such a party; or
+&emsp;&emsp;&emsp;(i)  a party to the proceedings for the order or a person claiming through such a party; or
 
-&emsp;&emsp;       (ii)  a person to whom notice of the application for the order was given or a person claiming through such a person; or
+&emsp;&emsp;&emsp;(ii)  a person to whom notice of the application for the order was given or a person claiming through such a person; or
 
 &emsp;&emsp;(b)  an earlier judgment, order or decree of a court of competent jurisdiction, whether in exercise of federal jurisdiction or not.
 
@@ -2010,11 +2010,11 @@
 
 &emsp;&emsp;(b)  there is a doubt:
 
-&emsp;&emsp;        (i)  whether those persons are legally married to each other;
+&emsp;&emsp;&emsp;(i)  whether those persons are legally married to each other;
 
-&emsp;&emsp;       (ii)  where the form or ceremony of marriage took place outside Australia, whether the marriage would be recognised as valid by a court in Australia; or
+&emsp;&emsp;&emsp;(ii)  where the form or ceremony of marriage took place outside Australia, whether the marriage would be recognised as valid by a court in Australia; or
 
-&emsp;&emsp;      (iii)  whether their marriage could be proved in legal proceedings;
+&emsp;&emsp;&emsp;(iii)  whether their marriage could be proved in legal proceedings;
 
 &emsp;&emsp;those persons may, subject to this section, go through a form or ceremony of marriage with each other in accordance with Division 2 of Part IV or under Part V as if they had not previously gone through a form or ceremony of marriage with each other.
 
@@ -2034,11 +2034,11 @@
 
 &emsp;&emsp;(b)  furnished to that person a statement in writing, signed by them and witnessed by that person, that:
 
-&emsp;&emsp;        (i)  they have previously gone through a form or ceremony of marriage with each other;
+&emsp;&emsp;&emsp;(i)  they have previously gone through a form or ceremony of marriage with each other;
 
-&emsp;&emsp;       (ii)  they are the parties mentioned in the certificate of marriage produced with the statement; and
+&emsp;&emsp;&emsp;(ii)  they are the parties mentioned in the certificate of marriage produced with the statement; and
 
-&emsp;&emsp;      (iii)  they have no reason to believe that they are not legally married to each other or, if their marriage took place outside Australia, they have no reason to believe that it would not be recognised as valid in Australia.
+&emsp;&emsp;&emsp;(iii)  they have no reason to believe that they are not legally married to each other or, if their marriage took place outside Australia, they have no reason to believe that it would not be recognised as valid in Australia.
 
 &emsp;(6)  The provisions of sections 42, 44, 50 and 51 do not apply to or in relation to a religious ceremony of marriage in accordance with subsection (5) and the person by whom, or in whose presence, the ceremony is performed shall not:
 
@@ -2172,14 +2172,14 @@
 
 &emsp;&emsp;(g)  requiring the furnishing, to the persons by whom registers of births are kept under a law of the Commonwealth or a State or of any Territory, of information with respect to:
 
-&emsp;&emsp;        (i)  legitimations effected by sections 89, 90 and 91; and
+&emsp;&emsp;&emsp;(i)  legitimations effected by sections 89, 90 and 91; and
 
-&emsp;&emsp;       (ii)  orders made under section 92;
+&emsp;&emsp;&emsp;(ii)  orders made under section 92;
 
 &emsp;&emsp;(h)  making provision for and in relation to:
 
-&emsp;&emsp;        (i)  registration of legitimations effected by sections 89, 90 and 91 in cases where the births of the legitimated children are not registered in any register of births kept under a law of the Commonwealth or a State or of any Territory (including provision requiring the furnishing of information); and
+&emsp;&emsp;&emsp;(i)  registration of legitimations effected by sections 89, 90 and 91 in cases where the births of the legitimated children are not registered in any register of births kept under a law of the Commonwealth or a State or of any Territory (including provision requiring the furnishing of information); and
 
-&emsp;&emsp;       (ii)  the issue and effect of certificates in respect of any such registration; and
+&emsp;&emsp;&emsp;(ii)  the issue and effect of certificates in respect of any such registration; and
 
 &emsp;&emsp;(j)  prescribing penalties not exceeding a fine of 2 penalty units for offences against the regulations.
