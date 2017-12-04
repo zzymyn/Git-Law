@@ -110,6 +110,8 @@
 
   **recognised denomination** means a religious body or a religious organisation in respect of which a Proclamation under section 26 is in force.
 
+  **religious marriage celebrant** means a person identified as a religious marriage celebrant on the register of marriage celebrants under Subdivision D of Division 1 of Part IV.
+
   **Territory** means:
 
   (a)  the Australian Capital Territory; or
