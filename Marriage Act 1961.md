@@ -1008,7 +1008,9 @@ Marriage celebrants who wish to be religious marriage celebrants on the basis of
 
    (i)  a change that results in the details entered in the register in relation to the person no longer being correct; or
 
-   (ii)  the occurrence of an event that might have caused the Registrar not to register the person as a marriage celebrant if the event had occurred before the person was registered.
+   (ii)  the occurrence of an event that might have caused the Registrar not to register the person as a marriage celebrant if the event had occurred before the person was registered; and
+
+  (d)  disclose that the celebrant is a marriage celebrant, and whether or not the celebrant is a religious marriage celebrant, in any document relating to the performance of services as a marriage celebrant (including advertisements) by the celebrant.
 
   Note:  If a marriage celebrant fails to comply with these obligations, the Registrar may take disciplinary measures under section 39I.
 
