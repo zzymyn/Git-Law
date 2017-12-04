@@ -4,7 +4,7 @@
 
 ##### 1  Short title
 
-  This Act may be cited as the *Marriage Act 1961*.
+ This Act may be cited as the *Marriage Act 1961*.
 
 ##### 2  Commencement
 
