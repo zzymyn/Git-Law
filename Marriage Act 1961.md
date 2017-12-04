@@ -1664,7 +1664,7 @@ Marriage celebrants who wish to be religious marriage celebrants on the basis of
 
 ##### 81  Power to refuse to solemnise marriage
 
-  A chaplain may refuse to solemnise a marriage under this Part on any grounds which appear to the chaplain to be sufficient and, in particular, on the ground that, in the opinion of the chaplain, the solemnisation of the marriage would be inconsistent with international law or the comity of nations.
+  (1) An authorised celebrant (including a chaplain) may refuse to solemnise a marriage under this Part on any grounds which appear to the chaplain to be sufficient and, in particular, on the ground that, in the opinion of the chaplain, the solemnisation of the marriage would be inconsistent with international law or the comity of nations.
 
 ##### 82  Marriages may be solemnised on any day and at any time
 
