@@ -1522,6 +1522,10 @@ Marriage celebrants who wish to be religious marriage celebrants on the basis of
 
  (2)  The Governor‑General may, by Proclamation, declare that a part of the Queen’s dominions that has been occupied by a state at war with the Commonwealth and in which facilities for marriage in accordance with the local law have not, in the opinion of the Governor‑General, been adequately restored shall be deemed to be an overseas country for the purposes of this section.
 
+##### 71A  Marriage officers
+
+ The Chief of the Defence Force may, by instrument in writing, authorise an officer (within the meaning of the Defence Act 1903), other than a chaplain, to solemnise marriages under this Division.
+
 ##### 72  Form and ceremony of marriage
 
  (1)  A marriage under this Division shall be solemnised:
