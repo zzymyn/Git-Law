@@ -1546,7 +1546,7 @@ Marriage celebrants who wish to be religious marriage celebrants on the basis of
 
   A marriage solemnised under this Part, being a marriage which, if it had been solemnised in Australia in accordance with Division 2 of Part IV would have been a valid marriage, is valid throughout Australia and the external Territories.
 
-##### 74  Declaration to be made before chaplain
+##### 74  Declaration to be made before authorised celebrant
 
  (1)  A marriage shall not be solemnised under this Part unless each of the parties to the marriage has made and subscribed before the chaplain solemnising the marriage a declaration as to:
 
