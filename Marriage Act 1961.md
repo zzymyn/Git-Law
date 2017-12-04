@@ -2244,7 +2244,13 @@ Marriage celebrants who wish to be religious marriage celebrants on the basis of
 
   (a)  in respect of each minister of religion registered under Subdivision A of Division 1 of Part IV—his or her full name, designation, address and religious denomination; and
 
-  (b)  in respect of each other person—his or her full name, designation (if any) and address and, where appropriate, the religious body or religious organisation to which he or she belongs.
+  (b)  in respect of each other person:
+
+   (i)  the person’s full name, designation (if any) and address and
+
+   (ii)  whether the person is identified as a religious marriage celebrant on the register of marriage celebrants; and
+
+   (iii)  where appropriate, the religious body or religious organisation to which the person belongs.
 
  (3)  The list referred to in paragraph (1)(b) shall show the full name, designation (if any) and address of each prescribed authority.
 
