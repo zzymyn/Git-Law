@@ -1124,6 +1124,18 @@ Marriage celebrants who wish to be religious marriage celebrants on the basis of
 
   the Registrar is taken to have decided, on the last day of the 3 month period, not to register that person as a marriage celebrant.
 
+ (2A)  For the purposes of both the making of an application under subsection (1) and the operation of the Administrative Appeals Tribunal Act 1975 in relation to such an application, if:
+
+  (a)  a person has given notice under section 39DB or paragraph 39DD(2)(b) (notice requesting to be identified as a religious marriage celebrant); and
+
+  (b)  at the end of 3 months after the day on which the notice was given, the person has not been:
+
+   (i)  identified as a religious marriage celebrant on the register of marriage celebrants; or
+
+   (ii)  notified by the Registrar that the Registrar has decided not to identify the person as a religious marriage celebrant on the register of marriage celebrants;
+
+  the Registrar is taken to have decided, on the last day of the 3 month period, not to identify that person as a religious marriage celebrant on the register of marriage celebrants.
+
  (3)  The Registrar must take such action as is necessary to give effect to the Tribunal’s decision.
 
 ##### 39K  Additional functions of the Registrar
