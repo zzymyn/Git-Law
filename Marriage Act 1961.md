@@ -1270,7 +1270,7 @@ Marriage celebrants who wish to be religious marriage celebrants on the basis of
 
  (9)  An authorised celebrant may permit an error in a notice under this section to be corrected in his or her presence by either of the parties at any time before the marriage to which it relates has been solemnised and may treat the corrected notice as having been originally given in its corrected form.
 
- (10)  Where the declaration made by a party under subsection (1) states that that party is a divorced person or a widow or widower, an authorised celebrant shall not solemnise the marriage unless there is produced to him or her evidence of that party’s divorce, or of the death of that party’s spouse, as the case requires.
+ (10)  Where the declaration made by a party under subsection (1) states that that party is a divorced person or that that party’s last spouse has died, an authorised celebrant shall not solemnise the marriage unless there is produced to him or her evidence of that party’s divorce, or of the death of that party’s spouse, as the case requires.
 
 ##### 42A  Commissioner of Australian Federal Police or approved authority may issue special notice
 
