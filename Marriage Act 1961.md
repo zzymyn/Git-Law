@@ -1106,7 +1106,11 @@ Marriage celebrants who wish to be religious marriage celebrants on the basis of
 
   (b)  to suspend a person’s registration as a marriage celebrant; or
 
-  (c)  to deregister a marriage celebrant (including under subsection 39FB(3)).
+  (c)  to deregister a marriage celebrant (including under subsection 39FB(3)); or
+
+  (d)  not to identify a person as a religious marriage celebrant on the register of marriage celebrants; or
+
+  (e)  to remove the identification of a person as a religious marriage celebrant from the register of marriage celebrants, either for a specified period or permanently.
 
  (2)  For the purposes of both the making of an application under subsection (1) and the operation of the *Administrative Appeals Tribunal Act 1975* in relation to such an application, if:
 
