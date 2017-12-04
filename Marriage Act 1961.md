@@ -2048,7 +2048,7 @@ Marriage celebrants who wish to be religious marriage celebrants on the basis of
 
  (1)  An authorised celebrant shall not solemnise a marriage under Division 2 of Part IV in contravention of section 42 or 44.
 
- (3)  A chaplain shall not solemnise a marriage under Division 3 of Part V in contravention of section 74, 75, 76, 77 or 78.
+ (3)  An authorised celebrant shall not solemnise a marriage under Division 3 of Part V in contravention of section 74, 75, 76, 77 or 78.
 
  (4)  A person shall not solemnise a marriage in contravention of section 13 or 112.
 
