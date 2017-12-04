@@ -1548,7 +1548,7 @@ Marriage celebrants who wish to be religious marriage celebrants on the basis of
 
 ##### 74  Declaration to be made before authorised celebrant
 
- (1)  A marriage shall not be solemnised under this Part unless each of the parties to the marriage has made and subscribed before the chaplain solemnising the marriage a declaration as to:
+ (1)  A marriage shall not be solemnised under this Part unless each of the parties to the marriage has made and subscribed before the authorised celebrant solemnising the marriage a declaration as to:
 
   (a)  the party’s conjugal status;
 
@@ -1558,11 +1558,11 @@ Marriage celebrants who wish to be religious marriage celebrants on the basis of
 
  (2)  The declarations of the parties required by subsection (1) shall both be written on the one paper and on the same side of that paper.
 
- (3)  A chaplain shall not solemnise a marriage under this Part if he or she has reason to believe that a declaration made and subscribed under this section in relation to the marriage contains a false statement or an error or is defective.
+ (3)  An authorised celebrant shall not solemnise a marriage under this Part if he or she has reason to believe that a declaration made and subscribed under this section in relation to the marriage contains a false statement or an error or is defective.
 
-##### 75  Chaplain to be satisfied of parties’ identity
+##### 75  Authorised celebrant to be satisfied of parties’ identity
 
-  A chaplain shall not solemnise a marriage under this Part unless the chaplain has satisfied himself or herself as to the identity of the parties.
+  An authorised celebrant shall not solemnise a marriage under this Part unless the authorised celebrant has satisfied himself or herself as to the identity of the parties.
 
 ##### 76  Additional consent to marriage of minor domiciled outside Australia
 
@@ -1572,13 +1572,13 @@ Marriage celebrants who wish to be religious marriage celebrants on the basis of
 
   (b)  the law of that place requires the consent of a person, other than a person whose consent is required under Part II, to the marriage of that party;
 
-  the marriage shall not be solemnised unless the chaplain is satisfied that consent to the marriage has been given by that person.
+  the marriage shall not be solemnised unless the authorised celebrant is satisfied that consent to the marriage has been given by that person.
 
  (2)  The requirement of subsection (1) is in addition to the requirements of Part II with respect to consents to the marriages of minors.
 
 ##### 77  Restriction on solemnisation of marriages under this Part
 
- (1)  A marriage shall not be solemnised in an overseas country under this Part unless the chaplain is satisfied:
+ (1)  A marriage shall not be solemnised in an overseas country under this Part unless the authorised celebrant is satisfied:
 
   (a)  that each of the parties to the intended marriage is an Australian citizen or a member of the Defence Force;
 
@@ -1598,7 +1598,7 @@ Marriage celebrants who wish to be religious marriage celebrants on the basis of
 
  (1)  Subject to subsection (2), a marriage shall not be solemnised under this Part if 1 party to the intended marriage (in this section called the **non‑Australian**) is not an Australian citizen or a member of the Defence Force.
 
- (2)  Subsection (1) does not apply where the chaplain is satisfied:
+ (2)  Subsection (1) does not apply where the authorised celebrant is satisfied:
 
   (a)  that the marriage will be recognised by the law of the country to which the non‑Australian belongs;
 
@@ -1606,13 +1606,13 @@ Marriage celebrants who wish to be religious marriage celebrants on the basis of
 
   (c)  that the Minister has approved of the solemnisation of the marriage under this Part.
 
-##### 79  Chaplain to retain consents etc.
+##### 79  Authorised celebrant to retain consents etc.
 
-  A chaplain to whom a consent, dispensation with consent or statutory declaration is produced under this Act shall retain it in the possession of the chaplain until he or she deals with it in accordance with section 80.
+  An authorised celebrant to whom a consent, dispensation with consent or statutory declaration is produced under this Act shall retain it in the possession of the authorised celebrant until he or she deals with it in accordance with section 80.
 
 ##### 80  Marriage certificate and registration of marriages
 
- (1)  Where a chaplain solemnises a marriage under this Part, the chaplain shall:
+ (1)  Where an authorised celebrant solemnises a marriage under this Part, the authorised celebrant shall:
 
   (a)  prepare a certificate of the marriage, in accordance with the prescribed form, for the purpose of issue to the parties to the marriage; and
 
@@ -1620,17 +1620,17 @@ Marriage celebrants who wish to be religious marriage celebrants on the basis of
 
  (2)  Immediately after the solemnisation of the marriage:
 
-  (a)  the chaplain; and
+  (a)  the authorised celebrant; and
 
   (b)  each of the parties to the marriage; and
 
-  (c)  2 witnesses of the marriage who are, or appear to the chaplain to be, over the age of 18 years;
+  (c)  2 witnesses of the marriage who are, or appear to the authorised celebrant to be, over the age of 18 years;
 
   shall sign each of the certificates so prepared.
 
  (3)  One of the official certificates shall be on the reverse side of the paper bearing the declarations made by the parties under section 74.
 
- (4)  The chaplain shall:
+ (4)  The authorised celebrant shall:
 
   (a)  hand the certificate referred to in paragraph (1)(a) to one of the parties to the marriage on behalf of the parties;
 
@@ -1638,13 +1638,13 @@ Marriage celebrants who wish to be religious marriage celebrants on the basis of
 
   (c)  retain the other copy of the certificate in his or her possession for the prescribed period and, upon the expiration of that period, deal with the copy in accordance with the regulations.
 
- (5)  Where the chaplain dies without having prepared and signed the certificates of the marriage, or where by reason of other special circumstances the Minister thinks it necessary to do so, the Minister may, if satisfied that the marriage was duly solemnised, prepare and sign the certificates with such modifications as are appropriate.
+ (5)  Where the authorised celebrant dies without having prepared and signed the certificates of the marriage, or where by reason of other special circumstances the Minister thinks it necessary to do so, the Minister may, if satisfied that the marriage was duly solemnised, prepare and sign the certificates with such modifications as are appropriate.
 
- (6)  A certificate prepared and signed by the Minister under subsection (5) has the same force and effect as if it had been prepared and signed, in accordance with this section, by the chaplain.
+ (6)  A certificate prepared and signed by the Minister under subsection (5) has the same force and effect as if it had been prepared and signed, in accordance with this section, by the authorised celebrant.
 
  (7)  Upon the receipt by the Registrar of the official certificate required to be forwarded to the Registrar in respect of a marriage, the Registrar shall register the marriage.
 
- (8)  In the month of January in each year, a chaplain by whom, or in whose presence, a marriage has been, or marriages have been, solemnised in the preceding year shall forward to the Registrar written notice of the marriage, or of each of the marriages, stating the following:
+ (8)  In the month of January in each year, an authorised celebrant by whom, or in whose presence, a marriage has been, or marriages have been, solemnised in the preceding year shall forward to the Registrar written notice of the marriage, or of each of the marriages, stating the following:
 
   (a)  the date and place of the marriage;
 
@@ -1652,15 +1652,15 @@ Marriage celebrants who wish to be religious marriage celebrants on the basis of
 
   (c)  such other particulars as are prescribed.
 
- (9)  If the certificate of a marriage is not received by the Registrar, the chaplain by whom it was issued shall, at the request of the Registrar:
+ (9)  If the certificate of a marriage is not received by the Registrar, the authorised celebrant by whom it was issued shall, at the request of the Registrar:
 
   (a)  prepare a copy of the certificate;
 
-  (b)  certify, by writing signed by the chaplain, that the copy is a true copy of the certificate; and
+  (b)  certify, by writing signed by the authorised celebrant, that the copy is a true copy of the certificate; and
 
   (c)  forward the copy to the Registrar.
 
- (10)  A certified copy of a certificate prepared by a chaplain under subsection (9) has, for all purposes, the same force and effect as the certificate of which it is a copy.
+ (10)  A certified copy of a certificate prepared by an authorised celebrant under subsection (9) has, for all purposes, the same force and effect as the certificate of which it is a copy.
 
 ##### 81  Power to refuse to solemnise marriage
 
