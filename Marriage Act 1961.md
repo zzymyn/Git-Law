@@ -82,7 +82,7 @@
 
   (b)  in relation to a Territory—a person who holds office as a Chief, Police, Stipendiary, Resident, Special Magistrate or Judge, or acting Judge, of a Local Court of the Territory.
 
-  **marriage** means the union of a man and a woman to the exclusion of all others, voluntarily entered into for life.
+  **marriage** means the union of 2 people to the exclusion of all others, voluntarily entered into for life.
 
   **marriage celebrant** means a person registered under Subdivision C of Division 1 of Part IV.
 
