@@ -1762,8 +1762,6 @@ Marriage celebrants who wish to be religious marriage celebrants on the basis of
 
  (3)  In this Part, a reference to a marriage includes a reference to a purported marriage that is void or voidable but does not include a reference to a marriage solemnised under Part V.
 
- (4)  To avoid doubt, in this Part (including section 88E) **marriage** has the meaning given by subsection 5(1).
-
 ##### 88C  Application of Part
 
  (1)  This Part applies to and in relation to every marriage solemnised, whether before or after the commencement of this Part, in a foreign country where:
