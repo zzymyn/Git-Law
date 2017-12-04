@@ -1322,17 +1322,35 @@ Marriage celebrants who wish to be religious marriage celebrants on the basis of
 
  (2)  Where, in the case of a person authorised under subsection 39(2) to solemnise marriages, the Minister is satisfied that the form of ceremony to be used by that person sufficiently states the nature and obligations of marriage, the Minister may, either by the instrument by which that person is so authorised or by a subsequent instrument, exempt that person from compliance with subsection (1) of this section.
 
-##### 47  Ministers of religion not bound to solemnise marriage etc.
+##### 47  Ministers of religion may refuse to solemnise marriages
 
-  Nothing in this Part:
+ *Refusing to solemnise a marriage despite this Part*
 
-  (a)  imposes an obligation on an authorised celebrant, being a minister of religion, to solemnise any marriage; or
+ (1)  A minister of religion may refuse to solemnise a marriage despite anything in this Part.
 
-  (b)  prevents such an authorised celebrant from making it a condition of his or her solemnising a marriage that:
+ (2)  In particular, nothing in this Part prevents a minister of religion from:
 
-   (i)  longer notice of intention to marry than that required by this Act is given; or
+  (a)  making it a condition of solemnising a marriage that:
 
-   (ii)  requirements additional to those provided by this Act are observed.
+   (i)  notice of the intended marriage is given to the minister earlier than this Act requires; or
+
+   (ii)  additional requirements to those provided by this Act are complied with; and
+
+  (b)  refusing to solemnise the marriage if the condition is not observed.
+
+ *Refusing to solemnise a marriage on the basis of religious beliefs etc.*
+
+ (3)  A minister of religion may refuse to solemnise a marriage despite anything in this Part, if any of the following applies:
+
+  (a)  the refusal conforms to the doctrines, tenets or beliefs of the religion of the minister’s religious body or religious organisation;
+
+  (b)  the refusal is necessary to avoid injury to the religious susceptibilities of adherents of that religion;
+
+  (c)  the minister’s religious beliefs do not allow the minister to solemnise the marriage.
+
+ *Grounds for refusal not limited by this section*
+
+ (4)  This section does not limit the grounds on which a minister of religion may refuse to solemnise a marriage.
 
 ##### 48  Certain marriages not solemnised in accordance with this Division to be invalid
 
