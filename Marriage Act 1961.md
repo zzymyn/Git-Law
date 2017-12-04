@@ -1536,7 +1536,7 @@ Marriage celebrants who wish to be religious marriage celebrants on the basis of
 
  (2)  Unless, having regard to the form and ceremony of the marriage, the authorised celebrant considers it unnecessary for the parties to the marriage to do so, each of the parties shall, in some part of the ceremony and in the presence of the authorised celebrant and the witnesses, say to each other the words: 
 
-  “I call upon the persons here present to witness that I, A.B. (*or* C.D.), take thee, C.D. (*or* A.B.), to be my lawful wedded wife (*or* husband)”;
+  “I call upon the persons here present to witness that I, A.B. (*or* C.D.), take thee, C.D. (*or* A.B.), to be my lawful wedded wife (*or* husband, *or* spouse)”;
 
   or words to that effect.
 
