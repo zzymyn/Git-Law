@@ -176,12 +176,6 @@
 
   (b)  the spouse or de facto partner of the first-mentioned person or of a person referred to in paragraph (a).
 
- official record of a person’s sex means:
-
-  (a)  a record of a person’s sex in a register of births, deaths and marriages (however described); or
-
-  (b)  a document (however described), issued under a law of a State or Territory, the purpose of which is to identify or acknowledge a person’s sex.
-
  potential pregnancy has a meaning affected by section 4B.
 
  President means President of the Commission.
@@ -1295,8 +1289,6 @@
  (3)  Nothing in Division 1 or 2, as applying by reference to section 6, affects anything done by a person in direct compliance with any regulations, rules, by-laws, determinations or directions made under the Gift Duty Assessment Act 1941, the Income Tax Assessment Act 1936 or the Sales Tax (Exemptions and Classifications) Act 1935.
 
  (4)  Nothing in Division 1 or 2, as applying by reference to section 6, affects anything done by a person for the purposes of the administration of the AUSTUDY scheme or the ABSTUDY scheme.
-
- (5)  Nothing in Division 2 renders it unlawful to refuse to make, issue or alter an official record of a person’s sex if a law of a State or Territory requires the refusal because the person is married.
 
  (6)  Nothing in Division 1 or 2 affects anything done by a person in compliance with a provision of a law of the Commonwealth, of a State or of a Territory, being a provision that is included for the purpose referred to in subsection 7D(1).
 
