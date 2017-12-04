@@ -1296,7 +1296,7 @@ Marriage celebrants who wish to be religious marriage celebrants on the basis of
 
  (2)  Where a marriage is solemnised by or in the presence of an authorised celebrant, not being a minister of religion, it is sufficient if each of the parties says to the other, in the presence of the authorised celebrant and the witnesses, the words:
 
-  “I call upon the persons here present to witness that I, A.B. (*or* C.D.), take thee, C.D. (*or* A.B.), to be my lawful wedded wife (*or* husband)”;
+  “I call upon the persons here present to witness that I, A.B. (*or* C.D.), take thee, C.D. (*or* A.B.), to be my lawful wedded wife (*or* husband, *or* spouse)”;
 
   or words to that effect.
 
