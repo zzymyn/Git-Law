@@ -1694,19 +1694,19 @@ Marriage celebrants who wish to be religious marriage celebrants on the basis of
 
   (f)  failure to comply with the requirements of section 13.
 
- (2)  A marriage under this Part is not invalid by reason that the person solemnising it was not a chaplain if either party to the marriage, at the time the marriage was solemnised, believed that that person was lawfully authorised to solemnise it, and in such a case the form and ceremony of the marriage shall be deemed to have been sufficient if they were such as to show an intention on the part of each of the parties to become thereby the lawfully wedded spouse of the other.
+ (2)  A marriage under this Part is not invalid by reason that the person solemnising it was not an authorised celebrant if either party to the marriage, at the time the marriage was solemnised, believed that that person was lawfully authorised to solemnise it, and in such a case the form and ceremony of the marriage shall be deemed to have been sufficient if they were such as to show an intention on the part of each of the parties to become thereby the lawfully wedded spouse of the other.
 
-##### 84  Registration of overseas marriages attended by a chaplain
+##### 84  Registration of overseas marriages attended by an authorised celebrant
 
  (1)  Where:
 
-  (a)  a chaplain has attended a marriage in an overseas country between parties of whom at least one was an Australian citizen or a member of the Defence Force; and
+  (a)  an authorised celebrant has attended a marriage in an overseas country between parties of whom at least one was an Australian citizen or a member of the Defence Force; and
 
-  (b)  the chaplain is satisfied that the marriage has taken place in accordance with the law of that country; and
+  (b)  the authorised celebrant is satisfied that the marriage has taken place in accordance with the law of that country; and
 
-  (c)  a party to the marriage informs the chaplain, in writing, that he or she desires the marriage to be registered under this section;
+  (c)  a party to the marriage informs the authorised celebrant, in writing, that he or she desires the marriage to be registered under this section;
 
-  the chaplain shall forward to the Registrar a certificate in respect of the marriage.
+  the authorised celebrant shall forward to the Registrar a certificate in respect of the marriage.
 
  (2)  Upon receipt by the Registrar of a certificate under subsection (1) in respect of a marriage, the Registrar shall, subject to the regulations, register the marriage.
 
@@ -1716,15 +1716,15 @@ Marriage celebrants who wish to be religious marriage celebrants on the basis of
 
   (a)  a marriage takes place in a prescribed overseas country in accordance with the law of that country between parties of whom one at least is an Australian citizen or a member of the Defence Force;
 
-  (b)  a party to the marriage who is an Australian citizen or a member of the Defence Force produces to a chaplain in the country in which the marriage was solemnised:
+  (b)  a party to the marriage who is an Australian citizen or a member of the Defence Force produces to an authorised celebrant in the country in which the marriage was solemnised:
 
    (i)  a copy of the entry in respect of the marriage in the marriage register of that country certified by the appropriate authority in that country to be a true copy of that entry; and
 
    (ii)  if the copy of that entry is not in the English language—a translation into the English language of that copy; and
 
-  (c)  the chaplain is satisfied that the copy of the entry in the marriage register is a true copy and that the translation, if any, is a true translation;
+  (c)  the authorised celebrant is satisfied that the copy of the entry in the marriage register is a true copy and that the translation, if any, is a true translation;
 
-  the chaplain shall certify, upon the copy, that he or she is satisfied that the copy is a true copy of the entry in the marriage register and, upon the translation, that he or she is satisfied that the translation is a true translation of the copy and shall transmit the copy and the translation to the Registrar.
+  the authorised celebrant shall certify, upon the copy, that he or she is satisfied that the copy is a true copy of the entry in the marriage register and, upon the translation, that he or she is satisfied that the translation is a true translation of the copy and shall transmit the copy and the translation to the Registrar.
 
  (2)  The Registrar shall, upon payment of the prescribed fee, issue to a person who so desires a copy of any document received by the Registrar under subsection (1) certified by the Registrar, under his or her signature and seal, to be a true copy of that document.
 
