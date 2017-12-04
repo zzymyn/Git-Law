@@ -858,6 +858,72 @@
 
   (c)  the person’s right under section 39J (if any) to apply for review of the decision.
 
+#### Subdivision D—Religious marriage celebrants
+
+##### 39DA  Entitlement to be identified as a religious marriage celebrant  on the register of marriage celebrants
+
+ A person is entitled to be identified as a religious marriage celebrant on the register of marriage celebrants if:
+
+  (a)  the person is registered as a marriage celebrant under Subdivision C of this Division; and
+
+  (b)  the person is a minister of religion.
+
+##### 39DB  Request to be identified as a religious marriage celebrant on the register of marriage celebrants
+
+ (1)  A person may, in writing, give the Registrar of Marriage Celebrants notice that the person wishes to be identified as a religious marriage celebrant on the register of marriage celebrants.
+
+ (2)  The notice must be in a form approved by the Registrar, and include all of the information required by the form.
+
+##### 39DC  Identification as a religious marriage celebrant
+
+ The Registrar of Marriage Celebrants must identify a person as a religious marriage celebrant on the register of marriage celebrants if:
+
+  (a)  the person has given the Registrar notice in accordance with section 39DB that the person wishes to be identified as a religious marriage celebrant on the register; and
+
+  (b)  the person is entitled to be identified as a religious marriage celebrant on the register.
+
+##### 39DD  Transitional provisions for existing marriage celebrants
+
+ Marriage celebrants who are ministers of religion, but not ministers of religion of a recognised denomination
+
+ (1)  The Registrar of Marriage Celebrants must identify a person as a religious marriage celebrant on the register of marriage celebrants if:
+
+  (a)  the person was registered as a marriage celebrant under Subdivision C of this Division immediately before Part 1 of Schedule 1 to the Marriage Amendment (Definition and Religious Freedoms) Act 2017 commenced; and
+
+  (b)  the person is a minister of religion.
+
+Marriage celebrants who wish to be religious marriage celebrants on the basis of their religious beliefs
+
+ (2)  The Registrar of Marriage Celebrants must identify a person as a religious marriage celebrant on the register of marriage celebrants if:
+
+  (a)  the person was registered as a marriage celebrant under Subdivision C of this Division immediately before Part 1 of Schedule 1 to the Marriage Amendment (Definition and Religious Freedoms) Act 2017 commenced; and
+
+  (b)  the person gives the Registrar notice that the person wishes to be identified as a religious marriage celebrant on the register:
+
+   (i)  in writing; and
+
+   (ii)  in a form approved by the Registrar; and
+
+   (iii)  within 90 days after Part 1 of Schedule 1 to the Marriage Amendment (Definition and Religious Freedoms) Act 2017 commences; and
+
+  (c)  the choice is based on the person’s religious beliefs.
+
+##### 39DE  Process of identification on the register as a religious marriage celebrant
+
+ (1)  The Registrar identifies a person as a religious marriage celebrant on the register of marriage celebrants by annotating the register to include that detail.
+
+ (2)  If the Registrar identifies a person as a religious marriage celebrant on the register of marriage celebrants, the Registrar must, as soon as practicable, give the person written notice of that fact.
+
+ (3)  If the Registrar decides not to identify a person as a religious marriage celebrant on the register of marriage celebrants, the Registrar must, as soon as practicable, inform the person in writing of:
+
+  (a)  the decision; and
+
+  (b)  the reasons for it; and
+
+  (c)  the person’s right under section 39J to apply for a review of the decision.
+
+#### Subdivision E—General provisions relating to all marriage celebrants
+
 ##### 39F  Effect of registration
 
   A person who is registered as a marriage celebrant may solemnise marriages at any place in Australia.
