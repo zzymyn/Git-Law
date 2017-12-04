@@ -4,7 +4,7 @@
 
 ##### 1  Short title
 
-  This Act may be cited as the *Marriage Act 1961*.
+ This Act may be cited as the *Marriage Act 1961*.
 
 ##### 2  Commencement
 
@@ -2359,3 +2359,7 @@ Marriage celebrants who wish to be religious marriage celebrants on the basis of
    (ii)  the issue and effect of certificates in respect of any such registration; and
 
   (j)  prescribing penalties not exceeding a fine of 2 penalty units for offences against the regulations.
+
+## The Schedule—Persons whose consent is required to the marriage of a minor 
+
+TODO
