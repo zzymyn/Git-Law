@@ -1280,7 +1280,15 @@
 
   (j)  the Social Services Act 1980 of Norfolk Island.
 
- (2A)  Nothing in Division 1 or 2, as applying by reference to section 5A, 5B, 5C or 6, affects anything done by a person in direct compliance with the Marriage Act 1961.
+ (2A)  A minister of religion (as defined in subsection 5(1) of the Marriage Act 1961) may refuse to solemnise a marriage despite anything in Division 1 or 2, as applying by reference to section 5A, 5B, 5C or 6, if any of the circumstances mentioned in paragraph 47(3)(a), (b) or (c) of the Marriage Act 1961 apply.
+
+ (2AA)  A religious marriage celebrant (as defined in subsection 5(1) of the Marriage Act 1961) may refuse to solemnise a marriage despite anything in Division 1 or 2, as applying by reference to section 5A, 5B, 5C or 6, if:
+
+  (a)  the identification of the person as a religious marriage celebrant on the register of marriage celebrants has not been removed at the time the marriage is solemnised; and
+
+  (b)  the circumstances mentioned in subsection 47A(1) of the Marriage Act 1961 apply.
+
+ (2AB)  A chaplain in the Defence Force may refuse to solemnise a marriage despite anything in Division 1 or 2, as applying by reference to section 5A, 5B, 5C or 6, if any of the circumstances mentioned in paragraph 81(2)(a), (b) or (c) of the Marriage Act 1961 apply.
 
  (2B)  Nothing in Division 1 or 2, as applying by reference to section 5A, 5B or 5C, affects anything done by a person in direct compliance with a law of the Commonwealth, or of a State or Territory, that is prescribed by the regulations for the purpose of this subsection.
 
