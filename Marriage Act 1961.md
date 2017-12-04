@@ -544,7 +544,7 @@
 
   (a)  between a person and an ancestor or descendant of the person; or
 
-  (b)  between a brother and a sister (whether of the whole blood or the half‑blood).
+  (b)  between 2 siblings (whether of the whole blood or the half‑blood).
 
  (3)  Any relationship specified in subsection (2) includes a relationship traced through, or to, a person who is or was an adopted child, and, for that purpose, the relationship between an adopted child and the adoptive parent, or each of the adoptive parents, of the child shall be deemed to be or to have been the natural relationship of child and parent.
 
