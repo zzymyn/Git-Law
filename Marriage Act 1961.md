@@ -1084,7 +1084,7 @@ Marriage celebrants who wish to be religious marriage celebrants on the basis of
 
  (3A)  If the Registrar removes the identification of a marriage celebrant as a religious marriage celebrant for any period under paragraph (2)(e), section 47A does not apply in respect of the celebrant during that period.
 
- (4)  If the Registrar decides to take disciplinary measures against a marriage celebrant, the Registrar:
+ (4)  If the Registrar decides to take disciplinary measures against a marriage celebrant (including a religious marriage celebrant), the Registrar:
 
   (a)  must give the marriage celebrant written notice of:
 
