@@ -176,12 +176,6 @@
 
   (b)  the spouse or de facto partner of the first-mentioned person or of a person referred to in paragraph (a).
 
- official record of a person’s sex means:
-
-  (a)  a record of a person’s sex in a register of births, deaths and marriages (however described); or
-
-  (b)  a document (however described), issued under a law of a State or Territory, the purpose of which is to identify or acknowledge a person’s sex.
-
  potential pregnancy has a meaning affected by section 4B.
 
  President means President of the Commission.
@@ -1280,15 +1274,21 @@
 
   (j)  the Social Services Act 1980 of Norfolk Island.
 
- (2A)  Nothing in Division 1 or 2, as applying by reference to section 5A, 5B, 5C or 6, affects anything done by a person in direct compliance with the Marriage Act 1961.
+ (2A)  A minister of religion (as defined in subsection 5(1) of the Marriage Act 1961) may refuse to solemnise a marriage despite anything in Division 1 or 2, as applying by reference to section 5A, 5B, 5C or 6, if any of the circumstances mentioned in paragraph 47(3)(a), (b) or (c) of the Marriage Act 1961 apply.
+
+ (2AA)  A religious marriage celebrant (as defined in subsection 5(1) of the Marriage Act 1961) may refuse to solemnise a marriage despite anything in Division 1 or 2, as applying by reference to section 5A, 5B, 5C or 6, if:
+
+  (a)  the identification of the person as a religious marriage celebrant on the register of marriage celebrants has not been removed at the time the marriage is solemnised; and
+
+  (b)  the circumstances mentioned in subsection 47A(1) of the Marriage Act 1961 apply.
+
+ (2AB)  A chaplain in the Defence Force may refuse to solemnise a marriage despite anything in Division 1 or 2, as applying by reference to section 5A, 5B, 5C or 6, if any of the circumstances mentioned in paragraph 81(2)(a), (b) or (c) of the Marriage Act 1961 apply.
 
  (2B)  Nothing in Division 1 or 2, as applying by reference to section 5A, 5B or 5C, affects anything done by a person in direct compliance with a law of the Commonwealth, or of a State or Territory, that is prescribed by the regulations for the purpose of this subsection.
 
  (3)  Nothing in Division 1 or 2, as applying by reference to section 6, affects anything done by a person in direct compliance with any regulations, rules, by-laws, determinations or directions made under the Gift Duty Assessment Act 1941, the Income Tax Assessment Act 1936 or the Sales Tax (Exemptions and Classifications) Act 1935.
 
  (4)  Nothing in Division 1 or 2, as applying by reference to section 6, affects anything done by a person for the purposes of the administration of the AUSTUDY scheme or the ABSTUDY scheme.
-
- (5)  Nothing in Division 2 renders it unlawful to refuse to make, issue or alter an official record of a person’s sex if a law of a State or Territory requires the refusal because the person is married.
 
  (6)  Nothing in Division 1 or 2 affects anything done by a person in compliance with a provision of a law of the Commonwealth, of a State or of a Territory, being a provision that is included for the purpose referred to in subsection 7D(1).
 
